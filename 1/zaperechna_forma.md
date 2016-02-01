@@ -4,7 +4,7 @@
 | <h4>-</h4> |Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
 | | Fame | does not define | me. |
-
+<br>
 
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Заперечення</a></li>
