@@ -7,5 +7,5 @@
    * [Форми](1/formi.md)
        * [Стверджувальна форма](1/strverdjuvalna_forma.md)
        * [Заперечна форма](1/zaperechna_forma.md)
-       * Запитальна форма
+       * [Запитальна форма](1/zapitalna_forma.md)
 
