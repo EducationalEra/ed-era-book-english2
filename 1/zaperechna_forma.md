@@ -8,7 +8,7 @@
 
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Заперечення</a></li>
-  <li><a data-toggle="tab" href="#menu1">Ending "s"</a></li>
+  <li><a data-toggle="tab" href="#menu1">Do/Does</a></li>
 </ul>
 
 <div class="tab-content">
