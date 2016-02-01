@@ -53,7 +53,7 @@
     <ul>
     <li>I (я) <b>do</b>...</li>
     <li>You/We/They (Ти/Ми/Вони) <b>do</b>...</li>
-    <li>He/She/It (Він/Вона/Воно) <b>is</b>...</li>
+    <li>He/She/It (Він/Вона/Воно) <b>does</b>...</li>
     </ul>
   </div>
 </div>
