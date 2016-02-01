@@ -16,21 +16,15 @@
     <h3>Заперечення</h3>
     <p>Заперечення ми утворюємо: додаючи до допоміжного дієслова  <span class="p1">do/does</span> частку <span class="p1">not</span>:</p>
     <font color="orange">Приклад:</font><br> <i>We do not speak Russian.<br> He does not speak Ukrainian.</i>
-    
     <br>
-    Заперечення із дієсловом <span class="p1"><a href="http://english2.ed-era.com/1/strverdjuvalna_forma.html">to be</a></span>
+    
+    <h5>Заперечення із дієсловом <span class="p1"><a href="http://english2.ed-era.com/1/strverdjuvalna_forma.html">to be</a></span></h5>
+
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>Ending "s"</h3>
-    <p>В залежності від того, на яку літеру закінчується основа дієслова,<br> буде змінюватися закінчення – s:</p>
-   <ul>
-   <li>go – goes</li>
-   <li>miss – misses</li>
-   <li>watch – watches</li>
-   <li>wash – washes</li>
-   <li>relax – relaxes</li>
-   <li>deny – denies</li>
-   </ul>
+    <p>---</p>
+  
   </div>
 </div>
 
