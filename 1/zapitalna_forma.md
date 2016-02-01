@@ -11,6 +11,10 @@
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
     <h3>Запитання</h3>
-    <p>Some content.</p>
+    <h5>Для утворення запитання</h5>виносимо допоміжне дієслово на початок:
+    <ul>
+    <li><b>Do</b> you prefer tea of cofee?</li>
+    </ul>
+    Тут звертаємо увагу на те, що за умови наявності <b>does</b> в реченні, закінчення <b>s</b> до основного дієслова вже не додаємо:
   </div>
 </div>
