@@ -79,8 +79,4 @@
    <li>deny – denies</li>
    </ul>
   </div>
-  <div id="menu2" class="tab-pane fade">
-    <h3>"have", "to be"</h3>
-    <p></p>
-  </div>
 </div>
