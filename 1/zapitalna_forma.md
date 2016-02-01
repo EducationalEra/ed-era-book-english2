@@ -20,6 +20,9 @@
     <li><b>Do</b> you prefer tea of cofee?</li>
     </ul>
     
-    <h5>Відповіді на запитання<h5>
+    <h5>Відповіді на запитання</h5>
+    На запитання такого типу ми можемо дати відповідь двома шляхами.
+    Do Kate and Adam study biology?<br>
+    Yes, Kate and Adam study biology. <span class="p1"><b>або</b></span> Yes, they do.
   </div>
 </div>
