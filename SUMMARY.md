@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](vstup.md)
-* [Вступне слово](vstup.md)
+* [Introduction](README.md)
 * Present Simple
    * Приклад
 
