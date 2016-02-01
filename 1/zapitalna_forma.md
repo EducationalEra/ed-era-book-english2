@@ -11,7 +11,7 @@
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
     <h3>Запитання</h3>
-    <h5>Для утворення запитання</h5>виносимо допоміжне дієслово на початок:
+     <b>Для утворення запитання</b> виносимо допоміжне дієслово на початок:
     <ul>
     <li><b>Do</b> you prefer tea of cofee?</li>
     </ul>
