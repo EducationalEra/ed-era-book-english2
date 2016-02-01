@@ -18,7 +18,7 @@
     <font color="orange">Приклад:</font><br> <i>We do not speak Russian.<br> He does not speak Ukrainian.</i>
     
     <br>
-    Заперечення із дієсловом <span class="p1"><a href="">to be</a></span>
+    Заперечення із дієсловом <span class="p1"><a href="http://english2.ed-era.com/1/strverdjuvalna_forma.html">to be</a></span>
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>Ending "s"</h3>
