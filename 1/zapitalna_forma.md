@@ -29,7 +29,7 @@
     </ul>
      <ul>
     <li><i>Does Mary dance very well?<br>
-    Yes, Mary dances very well.<font color="orange"><b>або</b></font> Yes, Mary does.</i></li>
+    Yes, Mary dances very well. <font color="orange"><b>або</b></font> Yes, Mary does.</i></li>
     </ul>
   </div>
 </div>
