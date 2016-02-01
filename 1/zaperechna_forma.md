@@ -9,7 +9,6 @@
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Заперечення</a></li>
   <li><a data-toggle="tab" href="#menu1">Ending "s"</a></li>
-  <li><a data-toggle="tab" href="#menu2">"have","to be"</a></li>
 </ul>
 
 <div class="tab-content">
@@ -17,6 +16,8 @@
     <h3>Заперечення</h3>
     <p>Заперечення ми утворюємо: додаючи до допоміжного дієслова  <span class="p1">do/does</span> частку <span class="p1">not</span>:</p>
     <font color="orange">Приклад:</font><br> <i>We do not speak Russian.<br> He does not speak Ukrainian.</i>
+    
+    <br>
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>Ending "s"</h3>
@@ -29,24 +30,6 @@
    <li>relax – relaxes</li>
    <li>deny – denies</li>
    </ul>
-  </div>
-  <div id="menu2" class="tab-pane fade">
-    <h3>"have", "to be"</h3>
-    <p>Дієслова <span class="p1">to be – бути</span>, та <span class="p1">have – мати</span>, на відміну від інших, змінюють свою основу за особами. Тому їх відносять до неправильних дієслів.</p>
-    <h4>To be</h4>
-    <ul>
-    <li>I (Я) <b>am</b>...</li>
-    <li>You/We/They (Ти/Ми/Вони) <b>are</b>...</li>
-    <li>He/She/It (Він/Вона/Воно) <b>is</b>...</li>
-    </ul>
-    Також жієслово to be може об'єднуватись із займенником, утворюючи скорочені форми:
-
-  <h4>Have</h4>
-   <ul>
-    <li>I <b>have</b>...</li>
-    <li>You/We/They <b>have</b>...</li>
-    <li>He/She/It <b>has</b>...</li>
-    </ul>
   </div>
 </div>
 
