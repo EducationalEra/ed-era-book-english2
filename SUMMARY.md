@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Вступне слово](README.md)
 * Present Simple
    * Приклад
 
