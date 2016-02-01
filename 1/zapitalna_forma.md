@@ -31,5 +31,13 @@
     <li><i>Does Mary dance very well?<br>
     Yes, Mary dances very well. <font color="orange"><b>або</b></font> Yes, Mary does.</i></li>
     </ul>
+    <br>
+    
+    <b>Запитання із дієсловом <span class="p1">to be</span></b> не потребують допоміжних дієслів, теж саме стосується і заперечень.<br>
+    Утворюючи
   </div>
 </div>
+
+<hr>
+<br>
+
