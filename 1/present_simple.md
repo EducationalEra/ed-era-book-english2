@@ -9,14 +9,14 @@
 <br>
 
 <ul>
-<li>My name is Cameron Diaz.</li>
-<li>I’m 41, on my way to 42.</li>
-<li>I am an actor in film.</li>
-<li>I live in Los Angeles and New York. I go back and forth.</li>
-<li>I like the seasons.</li>
-<li>I think that’s it, right?</li>
-<li>The question I always ask them is “Why”?</li>
-<li>In America people have this idea of fame.</li>
-<li>Fame does not define me.</li>
-<li>Fulfillment comes from within you. </li>
+<li><span class="p1">My name is</span> Cameron Diaz.</li>
+<li><span class="p1">I’m</span> 41, on my way to 42.</li>
+<li><span class="p1">I am</span> an actor in film.</li>
+<li><span class="p1">I live</span> in Los Angeles and New York. I go back and forth.</li>
+<li><span class="p1">I like</span> the seasons.</li>
+<li><span class="p1">I think</span> that’s it, right?</li>
+<li>The question <span class="p1">I always</span> ask them is “Why”?</li>
+<li>In America <span class="p1">people have</span> this idea of fame.</li>
+<li><span class="p1">Fame does not define</span> me.</li>
+<li><span class="p1">Fulfillment comes</span> from within you. </li>
 </ul>
