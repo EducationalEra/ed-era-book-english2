@@ -15,18 +15,19 @@
   <div id="home" class="tab-pane fade in active">
     <h3>Заперечення</h3>
     <p>Заперечення ми утворюємо: додаючи до допоміжного дієслова  <span class="p1">do/does</span> частку <span class="p1">not</span>:</p>
-    <font color="orange">Приклад:</font><br> <i>We do not speak Russian.<br> He does not speak Ukrainian.</i>
+    <font color="orange">Приклад:</font><br>
+    <i>We do not speak Russian. <font color="orange">або </font> We don't speak Russian.  <br>
+    He does not speak Ukrainian. <font color="orange">або </font> He doesn't speak Ukrainian. </i>
     <br>
     
-    <table>
-  <tr>
-    <td>don't</td>
+<!--    <table>
+<tr>    <td>don't</td>
     <td>do not</td> 
   </tr>
    <tr>
     <td>doesn't</td>
     <td>does not</td> 
-  </tr>
+  </tr> -->
   
 </table>
     <br>
