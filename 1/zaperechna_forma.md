@@ -40,7 +40,6 @@
     <td>She is not pretty.</td> 
   </tr>
 </table>
-
 </div>
   </div>
   <div id="menu1" class="tab-pane fade">
