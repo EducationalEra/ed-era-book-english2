@@ -20,9 +20,16 @@
     <li><b>Do</b> you prefer tea of cofee?</li>
     </ul>
     
+    <br>
     <h5>Відповіді на запитання</h5>
     На запитання такого типу ми можемо дати відповідь двома шляхами.
-    Do Kate and Adam study biology?<br>
-    Yes, Kate and Adam study biology. <span class="p1"><b>або</b></span> Yes, they do.
+    <ul>
+    <li><i>Do Kate and Adam study biology?<br>
+    Yes, Kate and Adam study biology. <font color="orange"><b>або</b></font> Yes, they do.</i></li>
+    </ul>
+     <ul>
+    <li><i>Does Mary dance very well?<br>
+    Yes, Mary dances very well.<font color="orange"><b>або</b></font> Yes, Mary does.</i></li>
+    </ul>
   </div>
 </div>
