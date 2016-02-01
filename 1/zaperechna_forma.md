@@ -16,8 +16,8 @@
     <h3>Заперечення</h3>
     <p>Заперечення ми утворюємо: додаючи до допоміжного дієслова  <span class="p1">do/does</span> частку <span class="p1">not</span>:</p>
     <font color="orange">Приклад:</font><br>
-    <i>We do not speak Russian. <font color="orange">або </font> We don't speak Russian.  <br>
-    He does not speak Ukrainian. <font color="orange">або </font> He doesn't speak Ukrainian. </i>
+    <i>We <u>do not</u> speak Russian. <font color="orange">або </font> We <u>don't</u> speak Russian.  <br>
+    He <u>does not</u> speak Ukrainian. <font color="orange">або </font> He <u>doesn't</u> speak Ukrainian. </i>
     <br>
     
 <!--    <table>
