@@ -1,0 +1,61 @@
+{
+    "plugins": [
+        "mathjax",
+        "youtube",
+        "addcssjs",
+        "modal-youtube-video",
+        "quiz",
+        "gtm",
+        "ga",
+        "-search",
+        "disqus"
+    ],
+    "pluginsConfig": {
+        "sharing": {
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "weibo": false,
+            "instapaper": false,
+            "vk": true,
+            "all": [
+                "facebook", "google", "twitter","vk"
+            ]
+        },
+        "addcssjs": {
+            "css": ["custom/css/style.css","custom/css/Bootstrap.css"],
+            "js": ["custom/js/jquery-2.1.3.min.js","custom/js/underscore/underscore.js", "custom/js/popup.js", "custom/js/custom.js", "custom/js/Bootstrap.js"]
+        },
+        "disqus": {
+            "shortName": "ederabooks"
+        },
+        "quiz": {
+            "labels": {
+                "showCorrect" : "Показати правильну відповідь",
+                "showExplanation"   : "Пояснення",
+                "check"       : "Перевірити"
+            },
+            "text": {
+                "noChosen"    : "Не вибрано жодної відповіді",
+                "rightAnswer" : "Правильно!",
+                "wrongAnswer" : "Неправильно!"
+            }
+        },
+        "gtm": {
+            "token": "GTM-N86M5F"
+        },
+        "ga": {
+            "token": "UA-67450509-5"
+        }
+    },
+    "variables": {
+      "basePath": "http://english.ed-era.com"
+    },
+    "links": {
+        "gitbook": false,
+        "sidebar": {
+          "Зв'язатися з нами: info@ed-era.com": "mailto:info@ed-era.com",
+          "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books"
+        }      
+    }
+}
