@@ -16,6 +16,8 @@
     <h3>Заперечення</h3>
     <p>Заперечення ми утворюємо: додаючи до допоміжного дієслова  <span class="p1">do/does</span> частку <span class="p1">not</span>:</p>
     <font color="orange">Приклад:</font><br> <i>We do not speak Russian.<br> He does not speak Ukrainian.</i>
+    <br>
+    
     <table>
   <tr>
     <td>don't</td>
