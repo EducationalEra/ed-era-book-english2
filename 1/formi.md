@@ -6,5 +6,5 @@
 <p class="test">Test 1</p>
 
 <script>
-$(".test").css("color", "red")
+$(".test").css("color", "red");
 </script>
