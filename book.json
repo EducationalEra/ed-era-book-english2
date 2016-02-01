@@ -24,7 +24,7 @@
         },
         "addcssjs": {
             "css": ["custom/css/style.css","custom/css/Bootstrap.css"],
-            "js": ["custom/js/jquery-2.1.3.min.js"]
+            "js": ["custom/js/jquery-2.1.3.min.js","custom/js/underscore.js","custom/js/popup.js", "custom/js/custom.js","custom/js/Bootstrap.js"]
         },
         "disqus": {
             "shortName": "ederabooks"
