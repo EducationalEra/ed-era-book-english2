@@ -44,7 +44,7 @@
 </div>
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h3>Ending "s"</h3>
+    <h3>Do/Does</h3>
     <p>---</p>
   
   </div>
