@@ -8,4 +8,5 @@
        * [Стверджувальна форма](1/strverdjuvalna_forma.md)
        * [Заперечна форма](1/zaperechna_forma.md)
        * [Запитальна форма](1/zapitalna_forma.md)
+   * Структури Present Simple, що не э типовими для украънської мови
 
