@@ -19,7 +19,14 @@
     <br>
     
     <h5>Заперечення із дієсловом <span class="p1"><a href="http://english2.ed-era.com/1/strverdjuvalna_forma.html">to be</a></span></h5>
+<table>
+  <tr>
+    <td>She is pretty.</td>
+    <td>She is not pretty.</td> 
+  </tr>
+</table>
 
+</div>
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>Ending "s"</h3>
