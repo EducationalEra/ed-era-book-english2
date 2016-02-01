@@ -16,6 +16,16 @@
     <h3>Заперечення</h3>
     <p>Заперечення ми утворюємо: додаючи до допоміжного дієслова  <span class="p1">do/does</span> частку <span class="p1">not</span>:</p>
     <font color="orange">Приклад:</font><br> <i>We do not speak Russian.<br> He does not speak Ukrainian.</i>
+    <table>
+  <tr>
+    <td>don't</td>
+    <td>do not</td> 
+  </tr>
+   <tr>
+    <td>doesn't</td>
+    <td>does not</td> 
+  </tr>
+</table>
     <br>
     
     <h5>Заперечення із дієсловом <span class="p1"><a href="http://english2.ed-era.com/1/strverdjuvalna_forma.html">to be</a></span></h5>
