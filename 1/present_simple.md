@@ -4,9 +4,10 @@
 
 
 <div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e-HvL3TSf-8" frameborder="0" allowfullscreen></iframe></div>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e-HvL3TSf-8" frameborder="0" allowfullscreen></iframe>
+</div>
 
-
+<br>
 <ul>
 <li><span class="p1">My name is</span> Cameron Diaz.</li>
 <li><span class="p1">I’m</span> 41, on my way to 42.</li>
