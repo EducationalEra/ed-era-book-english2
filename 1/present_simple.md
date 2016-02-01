@@ -19,3 +19,7 @@
 <li><span class="p1">Fame does not define</span> me.</li>
 <li><span class="p1">Fulfillment comes</span> from within you. </li>
 </ul>
+
+
+У свої розповіді Камерон переважно завжди використовує часову форму Present Simple.<br>
+Давайте спробуємо зрозуміти чому так
