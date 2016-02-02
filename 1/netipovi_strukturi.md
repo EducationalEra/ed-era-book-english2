@@ -1,6 +1,12 @@
 #Структури Present Simple, що не є типовими для української мови
 
-<span class="p1">It is</span> – використовується для опису:<br>
+ <div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<b>It is</b> – використовується для опису:
+</div>
+</div>
+
 <ul>
 <li>Станів (в том числі погодних): <i>It is easy. It is cold.</i></li>
 <li>Часу (включно з роками, місяцми, порами року): <i>It is winter.</i></li>
