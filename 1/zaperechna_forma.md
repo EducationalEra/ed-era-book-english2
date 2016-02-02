@@ -37,7 +37,7 @@
   </tr>
 </table>
 <br>
-<h5>To be + not</h5>
+<center><h5>To be + not</h5></center>
 <table>
   <tr>
     <td>I am</td>
