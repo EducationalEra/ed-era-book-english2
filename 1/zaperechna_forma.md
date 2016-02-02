@@ -43,29 +43,13 @@
     <td>I am not</td>
     <td>I amn't (Ireland, Scotland, US dialect)</td> 
   </tr>
-   <tr>
-    <td>You are not</td>
-    <td>You aren't</td> 
-  </tr>
-  <tr>
-    <td>He/She/It is not</td>
-    <td>He/She/It isn't</td> 
-  </tr>
   <tr>
     <td>You/We/They are not</td>
     <td>You/We/They aren't</td> 
   </tr>
-    <tr>
-    <td>It is</td>
-    <td>It's</td> 
-  </tr>
-   <tr>
-    <td>We are</td>
-    <td>We're</td> 
-  </tr>
   <tr>
-    <td>They are</td>
-    <td>They're</td> 
+    <td>He/She/It is not</td>
+    <td>He/She/It isn't</td> 
   </tr>
 </table>
 </div>
