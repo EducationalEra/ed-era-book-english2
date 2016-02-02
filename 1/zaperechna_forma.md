@@ -36,6 +36,38 @@
     <td>She is not pretty.</td> 
   </tr>
 </table>
+<br>
+<h5>To be + not</h5>
+<table>
+  <tr>
+    <td>I am</td>
+    <td>I'm</td> 
+  </tr>
+   <tr>
+    <td>You are</td>
+    <td>You're</td> 
+  </tr>
+  <tr>
+    <td>He is</td>
+    <td>He's</td> 
+  </tr>
+  <tr>
+    <td>She is</td>
+    <td>She's</td> 
+  </tr>
+    <tr>
+    <td>It is</td>
+    <td>It's</td> 
+  </tr>
+   <tr>
+    <td>We are</td>
+    <td>We're</td> 
+  </tr>
+  <tr>
+    <td>They are</td>
+    <td>They're</td> 
+  </tr>
+</table>
 </div>
  <div id="menu1" class="tab-pane fade">
     <h3>Do/Does</h3>
