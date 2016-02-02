@@ -25,6 +25,6 @@
 </div>
 
 
-There is a book on the table. – На столі є книжка.
-There are many churches in Kyiv. – В Києві багато церков.
-There is no food in a fridge. – В холодильнику немає їжі.
+<i>There is a book on the table.</i> – На столі є книжка.
+<i>There are many churches in Kyiv.</i> – В Києві багато церков.
+<i>There is no food in a fridge.</i> – В холодильнику немає їжі.
