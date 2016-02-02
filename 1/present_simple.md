@@ -1,10 +1,10 @@
 #Present Simple
 
-Давайте для початку подивимось короткий відрізок із документального фільму <span class="p1">Human</span>, де Камерон Діаз розповідає про себе та свої погляди на життя. Місця, на які вам варто звернути увагу виділені:
+Давайте для початку подивимось короткий відрізок із документального фільму <span class="p1">Human</span>, де Камерон Діаз розповідає про себе та свої погляди на життя.
 
 
 <div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e-HvL3TSf-8" frameborder="0" allowfullscreen></iframe>
+<iframe align="center" width="373.3" height="210" src="https://www.youtube.com/embed/e-HvL3TSf-8" frameborder="0" allowfullscreen></iframe>
 </div>
 
 <br>
