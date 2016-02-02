@@ -40,8 +40,8 @@
 <center><h5>To be + not</h5></center>
 <table>
   <tr>
-    <td>I am</td>
-    <td>I'm</td> 
+    <td>I am not</td>
+    <td>I amn't (Ireland, Scotland, US dialect)</td> 
   </tr>
    <tr>
     <td>You are</td>
