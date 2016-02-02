@@ -44,16 +44,16 @@
     <td>I amn't (Ireland, Scotland, US dialect)</td> 
   </tr>
    <tr>
-    <td>You are</td>
-    <td>You're</td> 
+    <td>You are not</td>
+    <td>You aren't</td> 
   </tr>
   <tr>
-    <td>He is</td>
-    <td>He's</td> 
+    <td>He/She/It is not</td>
+    <td>He/She/It isn't</td> 
   </tr>
   <tr>
-    <td>She is</td>
-    <td>She's</td> 
+    <td>You/We/They are not</td>
+    <td>You/We/They aren't</td> 
   </tr>
     <tr>
     <td>It is</td>
