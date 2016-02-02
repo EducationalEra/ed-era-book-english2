@@ -28,12 +28,12 @@
     <h3>Ending "s"</h3>
     <p>В залежності від того, на яку літеру закінчується основа дієслова,<br> буде змінюватися закінчення – s:</p>
    <ul>
-   <li>go – goes</li>
-   <li>miss – misses</li>
-   <li>watch – watches</li>
-   <li>wash – washes</li>
-   <li>relax – relaxes</li>
-   <li>deny – denies</li>
+   <li>go – go<span class="p1">es</span></li>
+   <li>miss – miss<span class="p1">es</span></li>
+   <li>watch – watch<span class="p1">es</span></li>
+   <li>wash – wash<span class="p1">es</span></li>
+   <li>relax – relax<span class="p1">es</span></li>
+   <li>deny – den<span class="p1">ies</span></li>
    </ul>
   </div>
   <div id="menu2" class="tab-pane fade">
