@@ -6,7 +6,7 @@
    * [Вживаємо](1/vjivannya.md)
    * [Утворюємо](1/formi.md)
        * [Розповідні речення](1/strverdjuvalna_forma.md)
-       * [Заперечна форма](1/zaperechna_forma.md)
+       * [Заперечення](1/zaperechna_forma.md)
        * [Запитальна форма](1/zapitalna_forma.md)
    * [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
 
