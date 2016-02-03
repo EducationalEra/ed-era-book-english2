@@ -1,5 +1,4 @@
-#Запитальна форма
-
+#Запитання
 | <h4>?</h4> | Do/Does | Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | -- | --| -- |
 | | Does |fame | define | you? |
