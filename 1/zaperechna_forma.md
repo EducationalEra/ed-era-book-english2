@@ -1,4 +1,4 @@
-#Заперечна форма
+#Заперечення
 
 
 | <h4>-</h4> |Subject | do/does+not+verb | Object/Adverbial modifier |
