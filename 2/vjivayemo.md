@@ -29,7 +29,7 @@
   </tr>
   <tr>
     <td><b>Характеризує людину/предмет</b></td>
-    <td><i>My name is Cameron Diaz. I'm 41, on my way to 42. I am an actor.</i></td>
+    <td><i>I <span class="p1">was very fortunate</span>.</i></td>
   </tr>
   <tr>
     <td><b>Вказує на наявність десь чогось. </b></td>
