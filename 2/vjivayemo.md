@@ -41,4 +41,4 @@
   </tr>
 </table>
 <br>
-Оскільки Present Simle це час, що характеризує регулярно повторювану дію, він уживається в контексті таких слів: <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
+Контекст вживання Present Simple часто визначається такими словами: <i>yesterday, last week, last month, etc.</i>
