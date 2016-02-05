@@ -17,7 +17,7 @@
 <li>That <span class="p1">was</span> very important to them.
 </li>
 <li>There <span class="p1">were</span> always lessons.</li>
-<li>The question <span class="p1">I always</span> ask them is “Why”?</li>
+<li>I think that they <span class="p1">loved</span> with every part of their being.</li>
 <li>In America <span class="p1">people have</span> this idea of fame.</li>
 </ul>
 
