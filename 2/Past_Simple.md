@@ -18,7 +18,7 @@
 </li>
 <li>There <span class="p1">were</span> always lessons.</li>
 <li>I think that they <span class="p1">loved</span> with every part of their being.</li>
-<li>In America <span class="p1">people have</span> this idea of fame.</li>
+<li>They <span class="p1">loved</span> us so deeply.</li>
 </ul>
 
 
