@@ -25,8 +25,7 @@
   </tr>
     <tr>
     <td><b>Описує думки</b></td>
-    <td><i>I think that's it, right?<br>
-    In America people have this idea of fame.</i></td>
+    <td>I <span class="p1">didn’t know</span>.</i></td>
   </tr>
   <tr>
     <td><b>Характеризує людину/предмет</b></td>
