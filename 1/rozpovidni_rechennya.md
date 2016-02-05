@@ -38,11 +38,20 @@
     <h3>"have", "to be"</h3>
     <p>Дієслова <span class="p1">to be – бути</span>, та <span class="p1">have – мати</span>, на відміну від інших, змінюють свою основу за особами. Тому їх відносять до неправильних дієслів.</p>
     <h4>To be</h4>
-    <ul>
-    <li>I (Я) <b>am</b>...</li>
-    <li>You/We/They (Ти/Ми/Вони) <b>are</b>...</li>
-    <li>He/She/It (Він/Вона/Воно) <b>is</b>...</li>
-    </ul>
+    <table>
+    <tr>
+        <td>I (Я)</td>
+        <td><b>am</b></td>
+    <tr>
+     <tr>
+        <td>You/We/They (Ти/Ми/Вони)</td>
+        <td><b>are</b></td>
+    <tr>
+    <tr>
+        <td>He/She/It (Він/Вона/Воно)</td>
+        <td><b>is</b></td>
+    <tr>
+    </table>
     Також дієслово to be може об'єднуватись із займенником, утворюючи скорочені форми:
         <table>
   <tr>
@@ -75,11 +84,20 @@
   </tr>
 </table>
   <h4>Have</h4>
-   <ul>
-    <li>I <b>have</b>...</li>
-    <li>You/We/They <b>have</b>...</li>
-    <li>He/She/It <b>has</b>...</li>
-    </ul>
+    <table>
+    <tr>
+        <td>I (Я)</td>
+        <td><b>have</b></td>
+    <tr>
+     <tr>
+        <td>You/We/They (Ти/Ми/Вони)</td>
+        <td><b>have</b></td>
+    <tr>
+    <tr>
+        <td>He/She/It (Він/Вона/Воно)</td>
+        <td><b>has</b></td>
+    <tr>
+    </table>
   </div>
 </div>
 
