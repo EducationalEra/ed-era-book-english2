@@ -13,4 +13,5 @@
    * [Вживаємо](2/vjivayemo.md)
    * [Утворюємо](2/utvoryuyemmo.md)
        * [Розповідні речення](2/rozpovidni_rechennya.md)
+       * Заперечення
 
