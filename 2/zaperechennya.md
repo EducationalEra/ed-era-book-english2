@@ -19,7 +19,12 @@
   <div id="menu1" class="tab-pane fade">
     <h3>Not</h3>
     <p>Заперечення утворюємо за тим же принципом, що і в Past Simple – допоміжне дієслово + <b>not</b>.</p>
-    <p>Допоміжне дієслово розміщуємо перед основним (пам’ятаємо, що тоді закінчення <span class="p1">ed</span> вже не додаємо, неправильні дієслова – в інфінітиві):</p>
-
+    <p>Допоміжне дієслово розміщуємо перед основним<br> (пам’ятаємо, що тоді закінчення <span class="p1">ed</span> вже не додаємо, неправильні дієслова – в інфінітиві):</p>
+    <i>I talked to him yesterday.</i>
+    <ol>
+    <li>I talked to him yesterday.</li>
+    <li>I talked (cross ed)  to him yesterday.</li>
+    <li>I did not talk to him yesterday.</li>
+    </ol>
   </div>
 </div>
