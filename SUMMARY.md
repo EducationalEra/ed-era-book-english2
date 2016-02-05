@@ -12,5 +12,5 @@
 * [Past Simple](2/Past_Simple.md)
    * [Вживаємо](2/vjivayemo.md)
    * [Утворюємо](2/utvoryuyemmo.md)
-       * Розповідні речення
+       * [Розповідні речення](2/rozpovidni_rechennya.md)
 
