@@ -12,7 +12,7 @@
 <ul>
 <li>I <span class="p1">was</span> really fortunate.</li>
 <li>The education I <span class="p1">got</span> from my parents was really amazing.</li>
-<li><span class="p1">I am</span> an actor in film.</li>
+<li>I <span class="p1">was</span> lucky to have the best parents who really trusted and empowered.</li>
 <li><span class="p1">I live</span> in Los Angeles and New York. I go back and forth.</li>
 <li><span class="p1">I like</span> the seasons.</li>
 <li><span class="p1">I think</span> that’s it, right?</li>
