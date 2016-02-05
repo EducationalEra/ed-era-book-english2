@@ -1,7 +1,5 @@
 #Розповідні речення
 
-<center><h3>Форма</h3></center>
-
 | <h4>+</h4> |Subject | Verb + Ending "s" | Object/Adverbial modifier |
 | -- | -- | -- | --| 
 | | I | live | in Los Angeles. |
