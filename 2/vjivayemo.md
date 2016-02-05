@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td><b>Описує почуття, відчуття</b></td>
-    <td><i>I like the seasons.</i></td> 
+    <td><i>They <span class="p1">loved</span> us so deeply.</i></td> 
   </tr>
     <tr>
     <td><b>Описує думки</b></td>
