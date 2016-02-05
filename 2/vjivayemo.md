@@ -41,4 +41,4 @@
   </tr>
 </table>
 <br>
-Контекст вживання Present Simple часто визначається такими словами: <i>yesterday, last week, last month, etc.</i>
+Контекст вживання Past Simple часто визначається такими словами: <i>yesterday, last week, last month, etc.</i>
