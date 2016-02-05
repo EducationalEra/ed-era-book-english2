@@ -12,8 +12,8 @@
 <table>
   <tr>
     <td><b>Регулярно</b></td>
-    <td><i>I live in Los Angeles and New York.<br>
-    The question i always ask them.</i></td> 
+    <td><i>I <span class="p1">was lucky</span> to have the best parents, who really trusted and empowered. 
+</i></td> 
   </tr>
   <tr>
     <td><b>Описує факти, законмірності, ідеї і т.д</b></td>
