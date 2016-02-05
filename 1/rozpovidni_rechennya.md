@@ -53,36 +53,16 @@
     <tr>
     </table>
     Також дієслово to be може об'єднуватись із займенником, утворюючи скорочені форми:
-        <table>
-  <tr>
-    <td>I am</td>
-    <td>I'm</td> 
-  </tr>
-   <tr>
-    <td>You are</td>
-    <td>You're</td> 
-  </tr>
-  <tr>
-    <td>He is</td>
-    <td>He's</td> 
-  </tr>
-  <tr>
-    <td>She is</td>
-    <td>She's</td> 
-  </tr>
-    <tr>
-    <td>It is</td>
-    <td>It's</td> 
-  </tr>
-   <tr>
-    <td>We are</td>
-    <td>We're</td> 
-  </tr>
-  <tr>
-    <td>They are</td>
-    <td>They're</td> 
-  </tr>
-</table>
+
+<ul>
+<li>I am = I'm</li>
+<li>You are = You're</li>
+<li>He is = He's</li>
+<li>She is = She's</li>
+<li>It is = It's</li>
+<li>We are = We're</li>
+<li>They are = They're</li>
+</ul>
   <h4>Have</h4>
     <table>
     <tr>
