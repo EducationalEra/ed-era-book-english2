@@ -1,8 +1,6 @@
 #Заперечення
 
-| <h4>+</h4> |Subject | Verb + Ending "ed"/II form of the verb | Object/Adverbial modifier |
+| <h4>+</h4> |Subject | did+ not + verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
-| | They | loved | us so deeply. |
-| | They | gave | us everything. |
-| | I | was | very fortunate |
+| | I | did not know. |  |
 <br>
