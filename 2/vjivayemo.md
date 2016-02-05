@@ -35,6 +35,10 @@
     <td><b>Вказує на наявність десь чогось. </b></td>
     <td><i>There <span class="p1">were always lessons</span>.</i></td>
   </tr>
+   <tr>
+    <td><b>І закінчилась (про подію або дію)</b></td>
+    <td><i>They just <span class="p1">gave us</span> everything.</i></td>
+  </tr>
 </table>
 <br>
 Оскільки Present Simle це час, що характеризує регулярно повторювану дію, він уживається в контексті таких слів: <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
