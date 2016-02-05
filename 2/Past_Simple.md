@@ -16,7 +16,7 @@
 <li>They just <span class="p1">gave</span> us everything.</li>
 <li>That <span class="p1">was</span> very important to them.
 </li>
-<li><span class="p1">I think</span> that’s it, right?</li>
+<li>There <span class="p1">were</span> always lessons.</li>
 <li>The question <span class="p1">I always</span> ask them is “Why”?</li>
 <li>In America <span class="p1">people have</span> this idea of fame.</li>
 </ul>
