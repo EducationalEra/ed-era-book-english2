@@ -10,8 +10,8 @@
 
 <br>
 <ul>
-<li><span class="p1">My name is</span> Cameron Diaz.</li>
-<li><span class="p1">I’m</span> 41, on my way to 42.</li>
+<li>I <span class="p1">was</span> really fortunate.</li>
+<li>The education I <span class="p1">got</span> from my parents was really amazing.</li>
 <li><span class="p1">I am</span> an actor in film.</li>
 <li><span class="p1">I live</span> in Los Angeles and New York. I go back and forth.</li>
 <li><span class="p1">I like</span> the seasons.</li>
