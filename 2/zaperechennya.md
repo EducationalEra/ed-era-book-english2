@@ -23,7 +23,7 @@
     <i>I talked to him yesterday.</i>
     <ol>
     <li>I talked to him yesterday.</li>
-    <li>I talk<strike>ed</strike> to him yesterday.</li>
+    <li>I talk<s>ed</s> to him yesterday.</li>
     <li>I did not talk to him yesterday.</li>
     </ol>
     <br>
