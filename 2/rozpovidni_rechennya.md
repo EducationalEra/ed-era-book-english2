@@ -8,9 +8,7 @@
 | -- | -- | -- | --| 
 | | They | loved | us so deeply. |
 | | They | gave | us everything. |
-| | My name | is | Cameron Diaz. |
-| | People | have | this idea of fame. |
-| | There | is | a documentary film Human by Yann Arthus-Bertrand. |
+| | I | was | very fortunate |
 <br>
 
 <ul class="nav nav-tabs">
