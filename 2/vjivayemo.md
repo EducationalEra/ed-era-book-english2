@@ -33,7 +33,7 @@
   </tr>
   <tr>
     <td><b>Вказує на наявність десь чогось. </b></td>
-    <td><i>There is f documentary film Human by Yann Arthus-Bertrand.</i></td>
+    <td><i>There <span class="p1">were always lessons</span>.</i></td>
   </tr>
 </table>
 <br>
