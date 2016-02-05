@@ -14,5 +14,5 @@
    * [Утворюємо](2/utvoryuyemmo.md)
        * [Розповідні речення](2/rozpovidni_rechennya.md)
        * [Заперечення](2/zaperechennya.md)
-       * Запитання
+       * [Запитання](2/zapitannya.md)
 
