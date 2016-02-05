@@ -33,6 +33,12 @@
 Як і у випадку із запитаннями, для утворення заперечень <b>to be</b> не потребує допоміжних дієслів.<br>
 <i>She was not here yesterday.<br>
 They were ill last week.</i>
-
+<br><br>
+Звернемо увагу:
+<ul>
+<li>Did not = didn't</li>
+<li>Where not = weren't</li>
+<li>Was not = wasn't</li>
+</ul>
   </div>
 </div>
