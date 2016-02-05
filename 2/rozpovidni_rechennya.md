@@ -12,7 +12,7 @@
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#home">Verb</a></li>
 <li><a data-toggle="tab" href="#menu1">"ed"</a></li>
-<li><a data-toggle="tab" href="#menu2">Menu 2</a></li>
+<li><a data-toggle="tab" href="#menu2">II form of the verb</a></li>
 </ul>
 
 <div class="tab-content">
@@ -35,7 +35,8 @@
 </ul>
   </div>
   <div id="menu2" class="tab-pane fade">
-    <h3>Menu 2</h3>
-    <p>Some content in menu 2.</p>
+    <h3>II form of the verb</h3>
+    <p>Друга форма дієслова – форма неправильного дієслова в минулому часі. Ця форма є різною для кожного неправильного дієслова і знайти її можна у таблиці неправильних дієслів (2га колонка).
+</p>
   </div>
 </div>
