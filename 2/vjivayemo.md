@@ -16,9 +16,8 @@
 </i></td> 
   </tr>
   <tr>
-    <td><b>Описує факти, законмірності, ідеї і т.д</b></td>
-    <td><i>Fullfilmed comes from within you.<br>
-    Fame does not define me.</i></td> 
+    <td><b>Описує факти</b></td>
+    <td><i>Kharkiv <span class="p1">was the capital</span> of Ukraine</i></td> 
   </tr>
   <tr>
     <td><b>Описує почуття, відчуття</b></td>
