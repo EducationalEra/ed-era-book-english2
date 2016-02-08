@@ -20,13 +20,15 @@
     <h3>Not</h3>
     <p>Заперечення утворюємо за тим же принципом, що і в Past Simple – допоміжне дієслово + <b>not</b>.</p>
     <p>Допоміжне дієслово розміщуємо перед основним<br> (пам’ятаємо, що тоді закінчення <span class="p1">ed</span> вже не додаємо, неправильні дієслова – в інфінітиві):</p>
-    <i>I talked to him yesterday.</i>
+    <ul>
+    <li>I talked to him yesterday.</li>
     <ol>
     <li>I talked to him yesterday.</li>
     <li>I talk<s>ed</s> to him yesterday.</li>
     <li>I did not talk to him yesterday.</li>
     </ol>
-    <i>They did not eat chocolate yesterday.</i> (the same) 
+    <li>They did not eat chocolate yesterday.</li> (the same) 
+    </ul>
    <br> 
 
 <div class="exmpl-wrap">
