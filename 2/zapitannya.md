@@ -23,5 +23,12 @@
     Це стосується як правильних, так і неправильних дієслів.<br>
     Як і у Past Simple, ставимо його на початок речення.</p>
     <i>I worked today. – Did she come here yesterday?</i>
+    <div class="add-wrap">
+<span class="add">Звертаємо увагу!</span>
+<div class="add-text">
+Якщо в реченні є <span class="p1">did</span>, воно слугує показником часової форми і закінчення <span class="p1">ed</span> ми не вживаємо.<br>
+Неправильні ж слова ми ставимо в інфінітив.
+</div>
+</div>
   </div>
 </div>
