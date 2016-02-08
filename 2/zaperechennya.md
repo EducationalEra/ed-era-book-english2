@@ -12,7 +12,7 @@
 
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
-    <h3>did</h3>
+    <h3>Did</h3>
     <p><b>Did</b> – вживається у всіх особах однини та множини.<br>
     Використовується лише для утворення запитань або заперечень.</p>
   </div>
