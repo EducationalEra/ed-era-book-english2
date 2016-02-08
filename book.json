@@ -18,7 +18,7 @@
             "weibo": false,
             "instapaper": false,
             "vk": false,
-            "all": false
+            "all": []
         },
         "addcssjs": {
             "css": ["custom/css/style.css","custom/css/Bootstrap.css"],
