@@ -36,7 +36,8 @@
 <div class="exmpl-wrap">
 <span class="exmpl">Виняток:</span>
 <div class="exmpl-text">
-<b>To be</b> (Як і у Present Simple)
+<b>To be</b> (Як і у Present Simple)<br>
+<i>They were at work last week. – Were they at work last week?</i>
 </div>
 </div>
 </p>
