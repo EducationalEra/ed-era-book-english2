@@ -10,7 +10,7 @@
        * [Запитання](1/zapitanna.md)
    * [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
 * [Past Simple](2/Past_Simple.md)
-   * [Вживання](2/vjivayemo.md)
+   * [Вживання Past Simple](2/vjivayemo.md)
    * [Утворення](2/utvoryuyemmo.md)
        * [Розповідні речення](2/rozpovidni_rechennya.md)
        * [Заперечення](2/zaperechennya.md)
