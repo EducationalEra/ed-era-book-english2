@@ -4,7 +4,7 @@
 * [Вступне слово](vstup.md)
 * [Present Simple](1/present_simple.md)
    * [Вживання Present Simple](1/vjivayemo.md)
-   * [Утворюємо](1/utvoryuyemmo.md)
+   * [Утворення](1/utvoryuyemmo.md)
        * [Розповідні речення](1/rozpovidni_rechennya.md)
        * [Заперечення](1/zaperechennya.md)
        * [Запитання](1/zapitanna.md)
