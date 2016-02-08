@@ -23,6 +23,7 @@
     Це стосується як правильних, так і неправильних дієслів.<br>
     Як і у Past Simple, ставимо його на початок речення.</p>
     <i>I worked today. – Did she come here yesterday?</i>
+    
     <br>
     <div class="add-wrap">
 <span class="add">Звертаємо увагу!</span>
