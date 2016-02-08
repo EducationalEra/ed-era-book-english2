@@ -37,7 +37,8 @@
 <span class="exmpl">Виняток:</span>
 <div class="exmpl-text">
 <b>To be</b> (Як і у Present Simple)<br>
-<i>They were at work last week. – Were they at work last week?</i>
+<i>They were at work last week. – Were they at work last week?</i><br>
+Тобто ми просто переносимо was/were на початок, без допомоги did.
 </div>
 </div>
 </p>
