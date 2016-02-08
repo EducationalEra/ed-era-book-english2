@@ -27,7 +27,8 @@
 <span class="add">Звертаємо увагу!</span>
 <div class="add-text">
 Якщо в реченні є <span class="p1">did</span>, воно слугує показником часової форми і закінчення <span class="p1">ed</span> ми не вживаємо.<br>
-Неправильні ж слова ми ставимо в інфінітив.
+Неправильні ж слова ми ставимо в інфінітив:<br>
+She came here yesterday. – Did she come here yesterday?
 </div>
 </div>
   </div>
