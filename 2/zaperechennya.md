@@ -26,7 +26,6 @@
     <li>I talk<s>ed</s> to him yesterday.</li>
     <li>I did not talk to him yesterday.</li>
     </ol>
-    <br>
     <i>They did not eat chocolate yesterday.</i> (the same) 
     
 <br>
