@@ -59,15 +59,15 @@
     <table>
   <tr>
     <td>I (я)</td>
-    <td><b>do</b></td> 
+    <td><b>do</b>...</td> 
   </tr>
   <tr>
     <td>You/We/They (Ти/Ми/Вони)</td>
-    <td><b>do</b></td> 
+    <td><b>do</b>...</td> 
   </tr>
   <tr>
     <td>He/She/It (Він/Вона/Воно) </td>
-    <td><b>does</b></td> 
+    <td><b>does</b>...</td> 
   </tr>
 </table>
   </div>
