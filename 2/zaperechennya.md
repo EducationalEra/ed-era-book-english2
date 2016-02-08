@@ -38,13 +38,15 @@
 They were ill last week.</i>
 </div>
 </div>
-
-<br><br>
-Звернемо увагу:
+<div class="add-wrap">
+<span class="add">Звертаємо увагу!</span>
+<div class="add-text">
 <ul>
 <li>Did not = didn't</li>
 <li>Where not = weren't</li>
 <li>Was not = wasn't</li>
 </ul>
+</div>
+</div>
   </div>
 </div>
