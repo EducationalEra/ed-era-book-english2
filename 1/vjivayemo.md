@@ -32,7 +32,7 @@
     <td><i>My name is Cameron Diaz. I'm 41, on my way to 42. I am an actor.</i></td>
   </tr>
   <tr>
-    <td><b>Вказує на наявність десь чогось. </b></td>
+    <td><b>Вказує на наявність істот/предметів в певному місці. </b></td>
     <td><i>There is f documentary film Human by Yann Arthus-Bertrand.</i></td>
   </tr>
 </table>
