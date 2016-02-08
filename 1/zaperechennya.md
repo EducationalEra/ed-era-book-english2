@@ -57,10 +57,24 @@
     <h3>Do/Does</h3>
     <p>Допоміжні дієслова в Present Simple використовується лише для утворення заперечень та <span class="p1"><a href="http://english2.ed-era.com/1/zapitalna_forma.html">запитань</a></span>.</p>
     <ul>
-    <li>I (я) <b>do</b>...</li>
-    <li>You/We/They (Ти/Ми/Вони) <b>do</b>...</li>
-    <li>He/She/It (Він/Вона/Воно) <b>does</b>...</li>
+    <li> ...</li>
+    <li>...</li>
+    <li>...</li>
     </ul>
+    <table>
+  <tr>
+    <td>I (я)</td>
+    <td><b>do</b></td> 
+  </tr>
+  <tr>
+    <td>You/We/They (Ти/Ми/Вони)</td>
+    <td><b>do</b></td> 
+  </tr>
+  <tr>
+    <td>He/She/It (Він/Вона/Воно) </td>
+    <td><b>does</b></td> 
+  </tr>
+</table>
   </div>
 </div>
 
