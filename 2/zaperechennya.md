@@ -28,6 +28,7 @@
     </ol>
     <br>
     <i>They did not eat chocolate yesterday.</i> (the same) 
+    
 <br>
 <font color="orange"><b>Виняток</b></font>: <b>to be</b><br>
 Як і у випадку із запитаннями, для утворення заперечень <b>to be</b> не потребує допоміжних дієслів.<br>
