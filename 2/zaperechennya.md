@@ -28,11 +28,17 @@
     </ol>
     <i>They did not eat chocolate yesterday.</i> (the same) 
     
-<br>
-<font color="orange"><b>Виняток</b></font>: <b>to be</b><br>
+
+<div class="exmpl-wrap">
+<span class="exmpl">Виняток:</span>
+<div class="exmpl-text">
+<b>To be</b><br>
 Як і у випадку із запитаннями, для утворення заперечень <b>to be</b> не потребує допоміжних дієслів.<br>
 <i>She was not here yesterday.<br>
 They were ill last week.</i>
+</div>
+</div>
+
 <br><br>
 Звернемо увагу:
 <ul>
