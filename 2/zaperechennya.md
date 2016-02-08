@@ -27,7 +27,7 @@
     <li>I did not talk to him yesterday.</li>
     </ol>
     <i>They did not eat chocolate yesterday.</i> (the same) 
-    
+   <br> 
 
 <div class="exmpl-wrap">
 <span class="exmpl">Виняток:</span>
@@ -38,6 +38,7 @@
 They were ill last week.</i>
 </div>
 </div>
+<br>
 <div class="add-wrap">
 <span class="add">Звертаємо увагу!</span>
 <div class="add-text">
