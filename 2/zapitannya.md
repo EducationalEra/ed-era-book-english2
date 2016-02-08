@@ -32,6 +32,13 @@
 <i>She came here yesterday. – Did she come here yesterday?</i>
 </div>
 </div>
-
+<p>
+<div class="exmpl-wrap">
+<span class="exmpl">Виняток:</span>
+<div class="exmpl-text">
+<b>To be</b> (Як і у Present Simple)
+</div>
+</div>
+</p>
   </div>
 </div>
