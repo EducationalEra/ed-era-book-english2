@@ -15,6 +15,6 @@
   <div id="home" class="tab-pane fade in active">
     <h3>Заперечення</h3>
     Додаємо до will частку not.<br>
-    <i>I will not go to a supermarket tomorrow.</i> <font color="orange"><b>або</b></font> I won't go to a supermarket tomorrow.
+    <i>I will not go to a supermarket tomorrow.</i> <font color="orange"><b>або</b></font> <i>I won't go to a supermarket tomorrow.</i>
   </div>
 </div>
