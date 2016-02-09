@@ -1,6 +1,6 @@
 #Заперечення
 
-<center><h3>Форми</h3></center>
+<center><h3>Форма</h3></center>
 
 | <h4>+</h4> |Subject | did + not + verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
