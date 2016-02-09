@@ -19,7 +19,22 @@
   <div id="home" class="tab-pane fade in active">
     <h3>Will</h3>
     Вживається в усіх особах однини та множини.<br>
-    Використовується в розповідному реченні, а також для утворення запитань та заперечень
+    Використовується в розповідному реченні, а також для утворення запитань та заперечень.
+    <table>
+  <tr>
+    <td><b>Регулярно</b></td>
+    <td><i>I <span class="p1">was lucky</span> to have the best parents, who really trusted and empowered. 
+</i></td> 
+  </tr>
+  <tr>
+    <td><b>Описує факти</b></td>
+    <td><i>Kharkiv <span class="p1">was the capital</span> of Ukraine</i></td> 
+  </tr>
+  <tr>
+    <td><b>Описує почуття, відчуття</b></td>
+    <td><i>They <span class="p1">loved</span> us so deeply.</i></td> 
+  </tr>
+</table>
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>"ed"</h3>
