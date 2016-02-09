@@ -40,4 +40,12 @@
   </tr>
 </table>
 <br>
-Контекст вживання Past Simple часто визначається такими словами: <i>yesterday, last week, last month, etc.</i>
+
+<div class="add-wrap">
+<span class="add">Звертаємо увагу!</span>
+<div class="add-text">
+Контекст вживання Past Simple часто визначається такими словами:<br> <i>yesterday, last week, last month, etc.</i>
+
+
+</div>
+</div>
