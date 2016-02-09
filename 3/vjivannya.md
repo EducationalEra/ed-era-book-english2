@@ -14,27 +14,18 @@
     <td><i>It will be cold tomorrow.</i></td> 
   </tr>
   <tr>
-    <td><b>Описує факти, законмірності, ідеї і т.д</b></td>
-    <td><i>Fullfilmed comes from within you.<br>
-    Fame does not define me.</i></td> 
+    <td><b> Як оіцянка</b></td>
+    <td><i>I will marry you next year.</i></td> 
   </tr>
   <tr>
-    <td><b>Описує почуття, відчуття</b></td>
-    <td><i>I like the seasons.</i></td> 
+    <td><b>Як раптове рішення</b></td>
+    <td><i>I will buy this shoes.</i></td> 
   </tr>
     <tr>
-    <td><b>Описує думки</b></td>
-    <td><i>I think that's it, right?<br>
-    In America people have this idea of fame.</i></td>
-  </tr>
-  <tr>
-    <td><b>Характеризує людину/предмет</b></td>
-    <td><i>My name is Cameron Diaz. I'm 41, on my way to 42. I am an actor.</i></td>
-  </tr>
-  <tr>
-    <td><b>Вказує на наявність істот/предметів в певному місці. </b></td>
-    <td><i>There is f documentary film Human by Yann Arthus-Bertrand.</i></td>
+    <td><b>Як відмова</b></td>
+    <td><i>We won't go with you.</i></td>
   </tr>
 </table>
 <br>
-Контекст вживання Present Simple часто визначається такими словами: <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
+
+Контекст вживання Future Simple часто визначається такими словами:<br> <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
