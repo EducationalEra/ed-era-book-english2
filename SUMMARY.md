@@ -15,6 +15,6 @@
        * [Розповідні речення](2/rozpovidni_rechennya.md)
        * [Заперечення](2/zaperechennya.md)
        * [Запитання](2/zapitannya.md)
-* Future Simple
+* [Future Simple](3/Future_Simple.md)
    * Вживання Future Simple
 
