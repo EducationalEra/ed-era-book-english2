@@ -11,8 +11,7 @@
 
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#home">Will</a></li>
-<li><a data-toggle="tab" href="#menu1">"ed"</a></li>
-<li><a data-toggle="tab" href="#menu2">II form of the verb</a></li>
+<li><a data-toggle="tab" href="#menu1">Verb</a></li>
 </ul>
 
 <div class="tab-content">
@@ -26,15 +25,12 @@
 <li>He will = He'll</li>
 <li>She will = She'll</li>
 <li>It will = It'll</li>
+<li>We will = We'll</li>
+<li>They will = They'll</li>
 </ul>
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h3>"ed"</h3>
-  
-  </div>
-  <div id="menu2" class="tab-pane fade">
-    <h3>II form of the verb</h3>
-    <p>Друга форма дієслова – форма неправильного дієслова в минулому часі. Ця форма є різною для кожного неправильного дієслова і знайти її можна у таблиці неправильних дієслів (2га колонка).
-</p>
+    <h3>Verb</h3>
+  Вживається в інфінітиві, без будь-яких закінчень. Це стосується як правильних, так і неправильних дієслів.
   </div>
 </div>
