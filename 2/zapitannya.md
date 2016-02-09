@@ -1,6 +1,6 @@
 #Запитання
 
-<center><h3>Форми</h3></center>
+<center><h3>Форма</h3></center>
 
 | <h4>+</h4>| Did |Subject | verb | Object/Adverbial modifier |
 | -- | -- | -- | -- | -- |
