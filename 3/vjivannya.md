@@ -31,6 +31,6 @@
 <div class="add-wrap">
 <span class="add">Звертаємо увагу!</span>
 <div class="add-text">
-Контекст вживання Future Simple часто визначається такими словами:<br> <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
+Контекст вживання Future Simple часто визначається такими словами та фразами:<br> <i>tomorrow, in future, perhaps, probably, "I like",  "I hope", "I expect", etc.</i>
 </div>
 </div>
