@@ -10,9 +10,8 @@
 
 <table>
   <tr>
-    <td><b>Регулярно</b></td>
-    <td><i>I live in Los Angeles and New York.<br>
-    The question i always ask them.</i></td> 
+    <td><b>Як передбачення, прогноз</b></td>
+    <td><i>It will be cold tomorrow.</i></td> 
   </tr>
   <tr>
     <td><b>Описує факти, законмірності, ідеї і т.д</b></td>
