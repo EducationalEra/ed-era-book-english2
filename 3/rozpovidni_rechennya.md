@@ -20,31 +20,17 @@
     <h3>Will</h3>
     Вживається в усіх особах однини та множини.<br>
     Використовується в розповідному реченні, а також для утворення запитань та заперечень.
-    <table>
-  <tr>
-    <td><b>Регулярно</b></td>
-    <td><i>I <span class="p1">was lucky</span> to have the best parents, who really trusted and empowered. 
-</i></td> 
-  </tr>
-  <tr>
-    <td><b>Описує факти</b></td>
-    <td><i>Kharkiv <span class="p1">was the capital</span> of Ukraine</i></td> 
-  </tr>
-  <tr>
-    <td><b>Описує почуття, відчуття</b></td>
-    <td><i>They <span class="p1">loved</span> us so deeply.</i></td> 
-  </tr>
-</table>
+    <ul>
+<li>I will = I'll</li>
+<li>You will = You'll</li>
+<li>He will = He'll</li>
+<li>She will = She'll</li>
+<li>It will = It'll</li>
+</ul>
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>"ed"</h3>
-    <ul>
-<li>в односкладових словах, що закінчуються на приголосну,<br> ця приголосна подвоюється: <i>fit - fitted</i></li>
-<li>в односкладових словах, що закінчуються на приголосну + у, <span class="p1">у</span> змінюється на <span class="p1">і</span>: <i>try - tried</i></li>
-<li>в односкладових словах, що закінчуються на голосну + <span class="p1">у</span>, <span class="p1">у</span> не змінюється: <i>play - played</i></li>
-<li>в двохскладових словах, якщо наголос падає на останній склад, остання приголосна подвоюється: <i>admit - admitted</i></li>
-<li>в усіх інших випадках ніякий змін не відбувається: <i>work - worked</i></li>
-</ul>
+  
   </div>
   <div id="menu2" class="tab-pane fade">
     <h3>II form of the verb</h3>
