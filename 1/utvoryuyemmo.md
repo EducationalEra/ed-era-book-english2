@@ -24,8 +24,17 @@
 </div>
 </div> 
 
+ <div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<b>Object</b> – об’єкт, або додаток. Те, над чим (або ким ) дія виконується. 
+</div>
+</div> 
 
+ <div class="eoz-wrap">
+<span class="eoz">Означення</span>
+<div class="eoz-text">
+<b>Adverbial modifier</b> – обставина. Уточнює за яких обставин відбувається дія (час, місце, спосіб і т.д.)  
+</div>
+</div> 
 
-Object – об’єкт, або додаток. Те, над чим (або ким ) дія виконується. 
-
-Adverbial modifier – обставина. Уточнює за яких обставин відбувається дія (час, місце, спосіб і т.д.)  
