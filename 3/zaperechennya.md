@@ -2,9 +2,9 @@
 
 <center><h3>Форма</h3></center>
 
-| <h4>-</h4> |Subject | did + not + verb | Object/Adverbial modifier |
+| <h4>-</h4> |Subject | will + not + verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
-| | I | did not know | you. |
+| | We | will not go | with you. |
 <br>
 
 <ul class="nav nav-tabs">
