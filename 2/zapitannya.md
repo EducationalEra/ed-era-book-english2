@@ -2,7 +2,7 @@
 
 <center><h3>Форма</h3></center>
 
-| <h4>+</h4>| Did |Subject | verb | Object/Adverbial modifier |
+| <h4>?</h4>| Did |Subject | verb | Object/Adverbial modifier |
 | -- | -- | -- | -- | -- |
 | | Did |  you | know | her? |
 <br>
