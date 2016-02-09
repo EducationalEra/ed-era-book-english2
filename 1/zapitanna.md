@@ -1,4 +1,7 @@
 #Запитання
+
+<center><h3>Форма</h3></center>
+
 | <h4>?</h4> | Do/Does | Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | -- | --| -- |
 | | Does |fame | define | you? |
