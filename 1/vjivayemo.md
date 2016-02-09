@@ -38,4 +38,10 @@
   </tr>
 </table>
 <br>
-Контекст вживання Present Simple часто визначається такими словами: <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
+
+<div class="add-wrap">
+<span class="add">Звертаємо увагу!</span>
+<div class="add-text">
+Контекст вживання Present Simple часто визначається такими словами:<br> <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
+</div>
+</div>
