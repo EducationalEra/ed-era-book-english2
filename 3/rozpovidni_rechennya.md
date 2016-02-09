@@ -10,19 +10,16 @@
 <br>
 
 <ul class="nav nav-tabs">
-<li class="active"><a data-toggle="tab" href="#home">Verb</a></li>
+<li class="active"><a data-toggle="tab" href="#home">Will</a></li>
 <li><a data-toggle="tab" href="#menu1">"ed"</a></li>
 <li><a data-toggle="tab" href="#menu2">II form of the verb</a></li>
 </ul>
 
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
-    <h3>Verb</h3>
-    <p>В англійській мові розрізняють правильні та неправильні дієслова. Розподіл відбувається на основі того, як дієслова утворюють форми минулого часу.</p>
-<p>Правильні дієслова потребують лише додавання закінчення <span class="p1">"ed"</span>, незалежно від особи та числа.</p>
-
-<p>Неправильні дієслова утворюють форму минулого часу без додавання закінчення, проте змінюючи основу. Усі Past Simple форми неправильних дієслів  можна знайти в другій колонці таблиці неправильних дієслів. Ця форма однакова для всіх осіб.
-</p>
+    <h3>Will</h3>
+    Вживається в усіх особах однини та множини.<br>
+    Використовується в розповідному реченні, а також для утворення запитань та заперечень
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>"ed"</h3>
