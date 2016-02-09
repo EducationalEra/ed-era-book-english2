@@ -1,5 +1,6 @@
 #Заперечення
 
+<center><h3>Форма</h3></center>
 
 | <h4>-</h4> |Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
