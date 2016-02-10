@@ -10,3 +10,4 @@
     * [Заперечення](1/zaperechennya.md)
     * [Запитання](1/zapitanna.md)
     3. [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
+2. [Past Simple](2/Past_Simple.md)
