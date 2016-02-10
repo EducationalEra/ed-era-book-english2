@@ -5,6 +5,9 @@
 | <h4>-</h4> |Subject | will + not + verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
 | | We | will not go | with you. |
+| | I | will not marry | you. |
+| | Anton | won't dance | with Ann. |
+| | We | won't teach | her. |
 <br>
 
 <ul class="nav nav-tabs">
