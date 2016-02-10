@@ -5,8 +5,8 @@
 | <h4>?</h4> | Do/Does | Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | -- | --| -- |
 | | Does |fame | define | you? |
-| | Does |fame | define | you? |
-| | Does |fame | define | you? |
+| | Does |Ann | belive | us? |
+| | Do |you | know | yourself good? |
 | | Does |fame | define | you? |
 
 
