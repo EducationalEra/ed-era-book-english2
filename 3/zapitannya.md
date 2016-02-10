@@ -6,7 +6,7 @@
 | <h4>+</h4> |Will |Subject | Verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
 | |Will |you | marry | me? |
-| |Will |they | die | for you? |
+| |Will |they | dive | with you? |
 
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#home">Заперечення</a></li>
@@ -16,3 +16,4 @@
   <div id="home" class="tab-pane fade in active">
     <h3>Заперечення</h3>
     Запитання утворюємо поставивши will на початок.<br>
+    <i>Will you go to the supermarket tomorrow?</i>
