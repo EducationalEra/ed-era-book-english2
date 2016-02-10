@@ -5,6 +5,9 @@
 | <h4>-</h4> |Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
 | | Fame | does not define | me. |
+| | Ann | does not belive | us. |
+| | I | do not know | such book. |
+| | We | don't need | education. |
 <br>
 
 <ul class="nav nav-tabs">
