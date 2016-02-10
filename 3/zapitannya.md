@@ -7,6 +7,8 @@
 | -- | -- | -- | --| 
 | |Will |you | marry | me? |
 | |Will |they | dive | with you? |
+| |Will |Anton | dive | with her? |
+| |Will |she |take | a smoke? |
 
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#home">Заперечення</a></li>
