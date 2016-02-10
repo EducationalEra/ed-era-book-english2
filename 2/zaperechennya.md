@@ -5,6 +5,9 @@
 | <h4>-</h4> |Subject | did + not + verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
 | | I | did not know | you. |
+| | Ann | didn't love | Brandon. |
+| | We | didn't need | education. |
+| | Sister | did not do | her homework. |
 <br>
 
 <ul class="nav nav-tabs">
