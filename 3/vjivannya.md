@@ -3,7 +3,7 @@
  <div class="eoz-wrap">
 <span class="eoz">Означення</span>
 <div class="eoz-text">
-<b>Present Simple</b> — час, в якому дія відбувається в майбутньому:
+<b>Future Simple</b> — час, в якому дія відбувається в майбутньому:
 </div>
 </div>
 
