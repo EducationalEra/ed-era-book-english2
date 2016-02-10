@@ -8,5 +8,11 @@
 | |Will |you | marry | me? |
 | |Will |they | die | for you? |
 
+<ul class="nav nav-tabs">
+<li class="active"><a data-toggle="tab" href="#home">Заперечення</a></li>
+ </ul>
 
-Запитання утворюємо 
+<div class="tab-content">
+  <div id="home" class="tab-pane fade in active">
+    <h3>Заперечення</h3>
+    Запитання утворюємо поставивши will на початок.<br>
