@@ -14,7 +14,7 @@
     <td><i>It will be cold tomorrow.</i></td> 
   </tr>
   <tr>
-    <td><b> Як оіцянка</b></td>
+    <td><b> Як обіцянка</b></td>
     <td><i>I will marry you next year.</i></td> 
   </tr>
   <tr>
