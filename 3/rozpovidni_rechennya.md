@@ -5,7 +5,7 @@
 | <h4>+</h4> |Subject | Will + verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
 | | It | will be | cold tomorrow. |
-| | It | will mary | you next year. |
+| | Anton | will marry | you next year. |
 | | We | will buy | these shoes. |
 <br>
 
