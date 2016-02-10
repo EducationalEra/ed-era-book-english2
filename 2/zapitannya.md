@@ -5,6 +5,9 @@
 | <h4>?</h4>| Did |Subject | verb | Object/Adverbial modifier |
 | -- | -- | -- | -- | -- |
 | | Did |  you | know | her? |
+| | Did |  we | need | education? |
+| | Did |  Ann | watch | TV? |
+| | Did |  she | know | her before? |
 <br>
 
 
