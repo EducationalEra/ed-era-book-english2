@@ -7,7 +7,7 @@
 | | Does |fame | define | you? |
 | | Does |Ann | belive | us? |
 | | Do |you | know | yourself good? |
-| | Does |fame | define | you? |
+| | Do |we | need | education? |
 
 
 
