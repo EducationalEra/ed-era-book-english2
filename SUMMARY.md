@@ -20,5 +20,5 @@
    * [Утворення](3/utvorennya.md)
        * [Розповідні речення](3/rozpovidni_rechennya.md)
        * Запитання
-       * Заперечення
+       * [Заперечення](3/zaperechennya.md)
 
