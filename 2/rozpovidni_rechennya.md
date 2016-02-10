@@ -6,7 +6,8 @@
 | -- | -- | -- | --| 
 | | They | loved | us so deeply. |
 | | They | gave | us everything. |
-| | I | was | very fortunate |
+| | I | was | very fortunate. |
+| | We | lived | together. |
 <br>
 
 <ul class="nav nav-tabs">
