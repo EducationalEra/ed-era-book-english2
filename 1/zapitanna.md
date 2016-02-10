@@ -5,6 +5,11 @@
 | <h4>?</h4> | Do/Does | Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | -- | --| -- |
 | | Does |fame | define | you? |
+| | Does |fame | define | you? |
+| | Does |fame | define | you? |
+| | Does |fame | define | you? |
+
+
 
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Запитання</a></li>
