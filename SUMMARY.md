@@ -21,5 +21,5 @@
        * [Розповідні речення](3/rozpovidni_rechennya.md)
        * [Запитання](3/zapitannya.md)
        * [Заперечення](3/zaperechennya.md)
-* [Present Continuous](Вживання Present Continuois)
+* Present Contunuous
 
