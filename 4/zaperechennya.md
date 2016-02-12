@@ -6,6 +6,7 @@
 | -- | -- | -- | -- | -- | 
 | | I | am not | working | now. |
 | | He | is not |  playing | computer games at the moment.|
+| | We | are not | preparing | for exams. |
 <br>
 
 <ul class="nav nav-tabs">
