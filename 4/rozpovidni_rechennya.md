@@ -33,9 +33,21 @@
         <td><b>is</b></td>
     <tr>
     </table>
+       Окрім цього звертаємо увагу на те, що можлива скорочена форма:
+<ul>
+<li>I am = I'm</li>
+<li>You are = You're</li>
+<li>He is = He's</li>
+<li>She is = She's</li>
+<li>It is = It's</li>
+<li>We are = We're</li>
+<li>They are = They're</li>
+</ul>
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>Verb</h3>
-  Вживається в інфінітиві, без будь-яких закінчень. Це стосується як правильних, так і неправильних дієслів.
+До дієслова додається закінчення -ing, незалежно від особи. За особами змінюється лише
+
+дієслово to be
   </div>
 </div>
