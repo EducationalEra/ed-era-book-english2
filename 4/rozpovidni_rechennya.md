@@ -6,7 +6,7 @@
 | -- | -- | -- | -- | -- |
 | | I | am | working | now. |
 | | He | is | playing | computer games at the moment. |
-| | She | is | preparing | for exams. |
+| | We | are | preparing | for exams. |
 
 <br>
 
