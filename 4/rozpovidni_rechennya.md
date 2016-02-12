@@ -13,6 +13,7 @@
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#home">To be</a></li>
 <li><a data-toggle="tab" href="#menu1">Verb</a></li>
+<li><a data-toggle="tab" href="#menu2">-ing</a></li>
 </ul>
 
 <div class="tab-content">
@@ -47,5 +48,9 @@
   <div id="menu1" class="tab-pane fade">
     <h3>Verb</h3>
 До дієслова додається закінчення <span class="p1">-ing</span>, незалежно від особи. За особами змінюється лише дієслово <span class="p1">to be</span>.
+  </div>
+    <div id="menu2" class="tab-pane fade">
+    <h3>-ing</h3>
+При додаванні закінчення до дієслова, існують певні особливості:
   </div>
 </div>
