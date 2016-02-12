@@ -9,6 +9,11 @@
 | | We | are not | preparing | for exams. |
 <br>
 
+
+Заперечення ми утворюємо додаючи до допоміжного дієслова to be частку not.
+
+Особливості залишаються тими ж, що і у Present Simple:
+
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Заперечення</a></li>
   <li><a data-toggle="tab" href="#menu1">Do/Does</a></li>
