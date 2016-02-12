@@ -12,4 +12,4 @@
 
 Заперечення ми утворюємо додаючи до допоміжного дієслова <span class="p1">to be</span> частку <span class="p1">not</span >.
 
-Особливості залишаються тими ж, що і у <a hreaf="">Present Simple.</a>
+Особливості залишаються тими ж, що і у <a hreaf="http://english2.ed-era.com/1/zaperechennya.html">Present Simple.</a>
