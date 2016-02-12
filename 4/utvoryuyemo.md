@@ -25,7 +25,7 @@
 Воно в реченні лише для утворення часової форми. Це стосується Present Continuous.<br>
 Наприклад: <i><b>I am talking</b> to Jane right now.</i> – Я розмовляю з Джейн зараз.<br>
 Повнозначне дієслово у нас лише <b>talking</b> - його
-ми і перекладаємо, а </b>am<b> – складова частина часової форми Present Continuous.
+ми і перекладаємо, а <b>am</b> – складова частина часової форми Present Continuous.
 
 
  <div class="eoz-wrap">
