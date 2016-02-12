@@ -66,7 +66,14 @@
 <li>cut – cutting</li>
 </ol>
 <li>Закінчення основи <span class="p1">іе</span> перетворюється на <span class="p1">у</span>:</li>
+<ol><li>lie – lying</li>
+<li>tie – tying</li></ol>
 <li>Основа на <span class="p1">у</span>, та всі інші основи, якщо вони не перелічені вище, залишаються незмінними, навіть під впливом <span class="p1">-ing</span></li>
+<ol>
+<li>stay – staying</li>
+<li>play – playing</li>
+<li>speak – speaking</li>
+<li>talk – talking</li></ol>
 </ul>
   </div>
 </div>
