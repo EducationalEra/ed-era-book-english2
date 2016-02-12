@@ -7,7 +7,7 @@
 
 | <h4>?</h4> | Do/Does | Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | -- | --| -- |
-| | Are |you | working | now? |
+| | Am | you | working | now? |
 | | Is | he | playing | computer games at the moment?
 | | 
 
