@@ -26,5 +26,5 @@
    * [Утворюємо](4/utvoryuyemo.md)
        * [Розповідні речення](4/rozpovidni_rechennya.md)
        * [Заперечення](4/zaperechennya.md)
-       * Заперечення
+       * Запитання
 
