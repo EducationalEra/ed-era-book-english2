@@ -18,7 +18,21 @@
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
     <h3>To be</h3>
-   Змінюємо за особами наступним чином
+   Змінюємо за особами наступним чином:
+    <table>
+    <tr>
+        <td>I (Я)</td>
+        <td><b>am</b></td>
+    <tr>
+     <tr>
+        <td>You/We/They (Ти/Ми/Вони)</td>
+        <td><b>are</b></td>
+    <tr>
+    <tr>
+        <td>He/She/It (Він/Вона/Воно)</td>
+        <td><b>is</b></td>
+    <tr>
+    </table>
   </div>
   <div id="menu1" class="tab-pane fade">
     <h3>Verb</h3>
