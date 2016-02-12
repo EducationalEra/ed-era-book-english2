@@ -54,8 +54,19 @@
 При додаванні закінчення до дієслова існують певні особливості:
 <ul>
 <li>Якщо основа слова закінчується на <span class="p1">е</span>, то при додаванні <span class="p1">-ing</span> ця <span class="p1">е</span> випадає:</li>
+<ol>
+<li>make – making</li>
+<li>decide – deciding</li>
+</ol>
+
 <li>Коли основа закінчується 1 голосним + 1 приголосним, то цей приголосний подвоюється:</li>
-<li>Закінчення основи <span class="p1">іе</span> перетворюється на <span class="p1">у</span></li>
+<ol>
+<li>sit – sitting</li>
+<li>swim – swimming</li>
+<li>cut – cutting</li>
+</ol>
+<li>Закінчення основи <span class="p1">іе</span> перетворюється на <span class="p1">у</span>:</li>
+<li>Основа на <span class="p1">у</span>, та всі інші основи, якщо вони не перелічені вище, залишаються незмінними, навіть під впливом <span class="p1">-ing</span></li>
 </ul>
   </div>
 </div>
