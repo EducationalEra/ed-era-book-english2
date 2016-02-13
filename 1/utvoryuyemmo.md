@@ -4,7 +4,7 @@
 
 
  <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Subject</b> – суб’єкт, або підмет. Тобто, член речення, що виконує дію.<br><br>
 
