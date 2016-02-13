@@ -31,5 +31,5 @@
    * [Вживання Past Continuous](5/vjivannya.md)
    * [Утворення](5/utvorennya.md)
        * [Розповідні речення](5/rozpovidni_rechennya.md)
-       * Заперечення
+       * [Заперечення](5/zaperechennya.md)
 
