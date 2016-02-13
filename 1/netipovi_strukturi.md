@@ -1,7 +1,7 @@
 #Структури Present Simple, що не є типовими для української мови
 
  <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>It is</b> – використовується для опису:
 </div>
@@ -22,7 +22,7 @@
 </div>
 
  <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>There is/There are</b> – використовується для того, щоб сказати, що "щось" є "десь",<br> або ж "чогось" "десь" немає:
 </div>
