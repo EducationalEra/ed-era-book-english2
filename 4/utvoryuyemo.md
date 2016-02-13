@@ -6,7 +6,7 @@
 
 
  <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Повнозначне дієслово</b> – дієслово, що має лексичне та граматичне навантаження.
 </div>
@@ -16,7 +16,7 @@
 
 <br>
  <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Допоміжне дієслово</b> – має лише граматичне значення.
 </div>
@@ -30,7 +30,7 @@
 
 <br>
  <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Модальне дієслово</b> – про них ми поговоримо трішки пізніше
 </div>
