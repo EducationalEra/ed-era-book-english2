@@ -59,7 +59,7 @@
 </div>
  <div id="menu1" class="tab-pane fade">
     <h3>Do/Does</h3>
-    <p>Допоміжні дієслова в Present Simple використовується лише для утворення заперечень та <span class="p1"><a href="http://english2.ed-era.com/1/zapitalna_forma.html">запитань</a></span>.</p>
+    <p>Допоміжні дієслова в Present Simple використовують лише для утворення заперечень та <span class="p1"><a href="http://english2.ed-era.com/1/zapitalna_forma.html">запитань</a></span>.</p>
     <table>
   <tr>
     <td>I (я)</td>
