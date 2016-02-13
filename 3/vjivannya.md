@@ -1,7 +1,7 @@
 #Вживання Future Simple
 
  <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Future Simple</b> — час, в якому дія відбувається в майбутньому:
 </div>
