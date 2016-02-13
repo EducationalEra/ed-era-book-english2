@@ -3,11 +3,11 @@
 <center><h3>Форма</h3></center>
 
 | <h4>+</h4> |Subject | Subject + was/were | verb +<br> -ing | Object/Adverbial modifier |
-| -- | -- | -- | --| 
-| | They | loved | us so deeply. |
-| | They | gave | us everything. |
-| | I | was | very fortunate. |
-| | We | lived | together. |
+| -- | -- | -- | -- | -- |
+| | I | was | working | at 5 pm yesterday.|
+| | We | were | playing | computer games the whole day.|
+| | We | were | preparing | for exams all day long. |
+
 <br>
 
 <ul class="nav nav-tabs">
