@@ -1,7 +1,7 @@
 #Вживання Past Simple
 
  <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Past Simple</b> — час, в якому дія відбувалася в минулому:
 </div>
