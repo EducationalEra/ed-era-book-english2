@@ -32,7 +32,7 @@
   </tr> -->
 </table>
     <br>
-    <h5>Заперечення із дієсловом <span class="p1"><a href="http://english2.ed-era.com/1/strverdjuvalna_forma.html">to be.</a></span></h5>
+    <h5>Заперечення з дієсловом <span class="p1"><a href="http://english2.ed-era.com/1/strverdjuvalna_forma.html">to be.</a></span></h5>
     Утворюючи заперечення, ми додаємо до дієслова частку <span class="p1">-not</span>.
 <table>
   <tr>
