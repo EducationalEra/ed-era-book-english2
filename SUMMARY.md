@@ -30,4 +30,5 @@
 * [Past Continuous](5/past_continuous.md)
    * [Вживання Past Continuous](5/vjivannya.md)
    * [Утворення](5/utvorennya.md)
+       * Розповідні речення
 
