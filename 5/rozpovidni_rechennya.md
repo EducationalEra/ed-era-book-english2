@@ -21,15 +21,15 @@
   <table>
       <tr>
           <td>I</td>
-          <td>was</td>
+          <td><b>was</b></td>
       </tr>
       <tr>
           <td>You/We/They</td>
-          <td>were</td>
+          <td><b>were</b></td>
       </tr>
       <tr>
           <td>He/She/It</td>
-          <td>was</td>
+          <td><b>was</b></td>
       </tr>
   </table>
   </div>
