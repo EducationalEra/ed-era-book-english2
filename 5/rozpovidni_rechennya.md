@@ -27,6 +27,10 @@
           <td>You/We/They</td>
           <td>were</td>
       </tr>
+      <tr>
+          <td>He/She/It</td>
+          <td>was</td>
+      </tr>
   </table>
   </div>
 </div>
