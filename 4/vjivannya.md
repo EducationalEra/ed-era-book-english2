@@ -1,7 +1,7 @@
 #Вживання Present Continuous
 
  <div class="eoz-wrap">
-<span class="eoz">Означення</span>
+<span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Present Continuous</b> — час, в якому дія відбувається в теперышньому:
 </div>
