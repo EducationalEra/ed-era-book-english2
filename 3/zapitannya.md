@@ -17,5 +17,5 @@
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
     <h3>Заперечення</h3>
-    Запитання утворюємо поставивши will на початок.<br>
+    Запитання утворюємо, поставивши will на початок.<br>
     <i>Will you go to the supermarket tomorrow?</i>
