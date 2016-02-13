@@ -10,7 +10,7 @@
 | | Am | you | working | now? |
 | | Is | he | playing | computer games at the moment?
 | | Are | we | preparing | for exams? |
-
+<br>
 
 
 Відповіді на запитання можна давати двома шляхами:
