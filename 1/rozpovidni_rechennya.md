@@ -48,7 +48,7 @@
         <td><b>are</b></td>
     <tr>
      <tr>
-        <td>You/They (Т)</td>
+        <td>You/(Ти)</td>
         <td><b>are</b></td>
         <td>You(Ви)</td>
         <td><b>are</b></td>
