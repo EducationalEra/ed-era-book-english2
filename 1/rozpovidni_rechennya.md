@@ -44,14 +44,20 @@
     <tr>
         <td>I (Я)</td>
         <td><b>am</b></td>
+        <td>We(Ми)</td>
+        <td><b>are</b></td>
     <tr>
      <tr>
-        <td>You/We/They (Ти/Ми/Вони)</td>
+        <td>You/They (Т)</td>
+        <td><b>are</b></td>
+        <td>You(Ви)</td>
         <td><b>are</b></td>
     <tr>
     <tr>
         <td>He/She/It (Він/Вона/Воно)</td>
         <td><b>is</b></td>
+        <td>They(Вони)</td>
+        <td><b>are</b></td>
     <tr>
     </table>
     Також дієслово to be може об'єднуватись із займенником, утворюючи скорочені форми:
