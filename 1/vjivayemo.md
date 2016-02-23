@@ -3,7 +3,7 @@
  <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
-<b>Present Simple</b> — час, в якому дія відбувається в теперішньому:
+<b>Present Simple</b> — теперішній час, що вживається для позначення дій, які відбуваються:
 </div>
 </div>
 
