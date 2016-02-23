@@ -26,9 +26,8 @@
 
 
 У своїй розповіді Камерон переважно використовує часову форму Present Simple.<br>
-Спробуймо зрозуміти, чому саме.
 
-
+Далі спробуємо краще зрозуміти чому саме.
 <!--<ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Home</a></li>
   <li><a data-toggle="tab" href="#menu1">Menu 1</a></li>
