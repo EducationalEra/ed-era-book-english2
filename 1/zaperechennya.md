@@ -13,15 +13,29 @@
     </table>
     <br>
 
+В мовленні це виглядає так: 
 
-| <h4>-</h4> |Subject | do/does+not+verb | Object/Adverbial modifier |
+<!--| <h4>-</h4> |Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
 | | Fame | does not define | me. |
 | | Ann | does not belive | us. |
 | | I | do not know | such book. |
 | | We | don't need | education. |
-<br>
+<br>-->
 
+<table>
+    <tr>
+        <td><b>Fame</b></td>
+        <td><b>does not define</b></td>
+        <td><b>me.</b></td>
+    <tr>
+     <tr>
+        <td><b>Ann</b></td>
+        <td><b>does not belive</b></td>
+        <td><b>us.</b></td>
+    <tr>
+    </table>
+    
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Заперечення</a></li>
   <li><a data-toggle="tab" href="#menu1">Do/Does</a></li>
