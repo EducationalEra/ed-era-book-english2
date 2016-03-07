@@ -25,14 +25,24 @@
 
 <table>
     <tr>
-        <td><b>Fame</b></td>
-        <td><b>does not define</b></td>
-        <td><b>me.</b></td>
+        <td>Fame</b></td>
+        <td>does not define</b></td>
+        <td>me.</b></td>
     <tr>
      <tr>
-        <td><b>Ann</b></td>
-        <td><b>does not belive</b></td>
-        <td><b>us.</b></td>
+        <td>Ann</b></td>
+        <td>does not belive</b></td>
+        <td>us.</b></td>
+    <tr>
+      <tr>
+        <td>I</b></td>
+        <td>do not know</b></td>
+        <td>such book.</b></td>
+    <tr>
+    <tr>
+        <td>We</b></td>
+        <td>don't need</b></td>
+        <td>no education.</b></td>
     <tr>
     </table>
     
