@@ -1,5 +1,7 @@
 #Розповідні речення
 
+Порядок слів у розповідному реченні, де вжита форма Present Simple є наступним
+
 <center><h3>Форма</h3></center>
 
 | <h4>+</h4> |Subject | Verb + Ending "s" | Object/Adverbial modifier |
