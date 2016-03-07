@@ -2,8 +2,6 @@
 
 Порядок слів у розповідному реченні, де вжита форма Present Simple є наступним
 
-| <h4>+</h4> |Subject | Verb + Ending "s" | Object/Adverbial modifier |
-
   <table>
     <tr>
         <td>Іменник (підмет)</td>
@@ -14,14 +12,40 @@
 
 Розглянемо це на прикладах із відео:
 
-| <h4>+</h4> |Subject | Verb + Ending "s" | Object/Adverbial modifier |
-| -- | -- | -- | --| 
-| | I | live | in Los Angeles. |
+  <table>
+    <tr>
+        <td>I</td>
+        <td>live</td>
+        <td>in Los Angeles.</td>
+    <tr>
+    <tr>
+        <td>Fullfilmed</td>
+        <td>comes</td>
+        <td>from within you.</td>
+    <tr>
+     <tr>
+        <td>My name</td>
+        <td>is</td>
+        <td>Cameron Diaz.</td>
+    <tr>
+      <tr>
+        <td>People</td>
+        <td>have</td>
+        <td>this idea of fame.</td>
+    <tr>
+     <tr>
+        <td>There</td>
+        <td>is</td>
+        <td>a documentary film Human by Yann Arthus-Bertrand.</td>
+    <tr>
+    </table>
+
+<!--| | I | live | in Los Angeles. |
 | | Fullfilmed | comes | from within you. |
 | | My name | is | Cameron Diaz. |
 | | People | have | this idea of fame. |
 | | There | is | a documentary film Human by Yann Arthus-Bertrand. |
-<br>
+<br>-->
 
 <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Verb</a></li>
