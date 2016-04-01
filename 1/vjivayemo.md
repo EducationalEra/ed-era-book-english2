@@ -12,11 +12,11 @@
   <tr>
     <td><b>Регулярно</b></td>
     <td><i>I live in Los Angeles and New York.<br>
-    The question i always ask them.</i></td> 
+    The question I always ask them.</i></td> 
   </tr>
   <tr>
     <td><b>Описує факти, закономірності, ідеї і т.ін.</b></td>
-    <td><i>Fullfilmed comes from within you.<br>
+    <td><i>Fulfillment comes from within you.<br>
     Fame does not define me.</i></td> 
   </tr>
   <tr>
@@ -33,7 +33,7 @@
     <td><i>My name is Cameron Diaz. I'm 41, on my way to 42. I am an actor.</i></td>
   </tr>
   <tr>
-    <td><b>Вказує на наявність істот/предметів в певному місці. </b></td>
+    <td><b>Вказує на наявність істот/предметів як таких, або в конкретному місці. </b></td>
     <td><i>There is f documentary film Human by Yann Arthus-Bertrand.</i></td>
   </tr>
 </table>
