@@ -34,7 +34,7 @@
   </tr>
   <tr>
     <td><b>Вказує на наявність істот/предметів як таких, або в конкретному місці. </b></td>
-    <td><i>There is f documentary film Human by Yann Arthus-Bertrand.</i></td>
+    <td><i>There is a documentary film by Yann Arthus-Bertrand, called "Human".</i></td>
   </tr>
 </table>
 <br>
