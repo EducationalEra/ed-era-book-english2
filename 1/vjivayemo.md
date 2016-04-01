@@ -42,6 +42,6 @@
 <div class="add-wrap">
 <span class="add">Звертаємо увагу!</span>
 <div class="add-text">
-Контекст вживання Present Simple часто визначається такими словами:<br> <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
+Контекст вживання Present Simple зазвичай визначається такими словами:<br> <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
 </div>
 </div>
