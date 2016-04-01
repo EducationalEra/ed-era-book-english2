@@ -15,7 +15,7 @@
     The question i always ask them.</i></td> 
   </tr>
   <tr>
-    <td><b>Описує факти, законмірності, ідеї і т.ін.</b></td>
+    <td><b>Описує факти, закономірності, ідеї і т.ін.</b></td>
     <td><i>Fullfilmed comes from within you.<br>
     Fame does not define me.</i></td> 
   </tr>
