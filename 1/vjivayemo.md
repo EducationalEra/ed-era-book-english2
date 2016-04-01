@@ -11,17 +11,17 @@
 <table>
   <tr>
     <td><b>Регулярно</b></td>
-    <td>I live in Los Angeles and New York.<br>
+    <td><i>I live in Los Angeles and New York.<br>
     The question I always ask them.</i></td> 
   </tr>
   <tr>
     <td><b>Описує факти, закономірності, ідеї і т.ін.</b></td>
-    <td>Fulfillment comes from within you.<br>
+    <td><i>Fulfillment comes from within you.<br>
     Fame does not define me.</i></td> 
   </tr>
   <tr>
     <td><b>Описує почуття, відчуття</b></td>
-    <td>I like the seasons.</i></td> 
+    <td><i>I like the seasons.</i></td> 
   </tr>
     <tr>
     <td><b>Описує думки</b></td>
