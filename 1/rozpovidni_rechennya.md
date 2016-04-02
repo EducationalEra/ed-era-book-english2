@@ -1,6 +1,6 @@
 #Стверджувальні речення
 
-Стверджувальні речення в Past Simple будуються надзвичайно просто: форма дієслова збігається із <a href="http://english2.ed-era.com/1/utvoryuyemmo.html">інфінітивом</a>, проте без частки “to”.
+Стверджувальні речення в Past Simple будуються надзвичайно просто: форма дієслова збігається із <a href="http://english2.ed-era.com/1/utvoryuyemmo.html">інфінітивом</a>, проте без частки "to".
 
 
 Розглянемо це на прикладах із відео:
@@ -12,6 +12,7 @@
         <td>in Los Angeles.</td>
     </tr>
     </table>
+    <br>
    Виняток становить третя особа однини (<b>He/she/it</b> – <b>він/вона/воно</b>), оскільки в цьому випадку до дієслова ми додаємо закінчення <b>–s</b>:
     
 <table>
@@ -20,6 +21,12 @@
         <td>comes</td>
         <td>from within you.</td>
     <tr>
+</table>
+Зверніть, будь ласка, увагу на те, що можливі певні варіації цього закінчення, в залежності від закінчення основи дієслова. Детальніше про це Ви можете прочитати у вкладці нижче. 
+<br><br>
+
+Дієслова "to be" та  "to have" у формі Present Simple повністю змінюють свою основу в усіх (to be), або в певних особах (to have):
+<table>
      <tr>
         <td>My name</td>
         <td>is</td>
@@ -30,12 +37,8 @@
         <td>have</td>
         <td>this idea of fame.</td>
     <tr>
-     <tr>
-        <td>There</td>
-        <td>is</td>
-        <td>a documentary film Human by Yann Arthus-Bertrand.</td>
-    <tr>
     </table>
+Детальніше про це, також, у вкладці нижче. 
 
 <!--| | I | live | in Los Angeles. |
 | | Fullfilmed | comes | from within you. |
