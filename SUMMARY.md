@@ -18,7 +18,7 @@
 * [Future Simple](3/Future_Simple.md)
    * [Вживання Future Simple](3/vjivannya.md)
    * [Утворення](3/utvorennya.md)
-       * [Розповідні речення](3/rozpovidni_rechennya.md)
+       * [Стверджувальні речення](3/rozpovidni_rechennya.md)
        * [Запитання](3/zapitannya.md)
        * [Заперечення](3/zaperechennya.md)
 * [Present Contunuous](4/Present_Continuous.md)
