@@ -4,7 +4,7 @@
 
 
 Розглянемо це на прикладах із відео:
-
+<hr>
   <table>
     <tr>
         <td>I</td>
@@ -39,6 +39,7 @@
     <tr>
     </table>
 Детальніше про це, також, у вкладці нижче. 
+<hr>
 
 <!--| | I | live | in Los Angeles. |
 | | Fullfilmed | comes | from within you. |
