@@ -75,25 +75,25 @@
   </div>
   <div id="menu2" class="tab-pane fade">
     <h3>"have", "to be"</h3>
-    <p>Дієслова <span class="p1">to be – бути</span> та <span class="p1">have – мати</span> є неправильними, тобто вони змінюють свою основу в залежності від особи, з якою вживаються.</p>
+    <p>Дієслова <span class="p1">to be – бути</span> та <span class="p1">have – мати</span> змінюють свою основу в залежності від особи, з якою вживаються.</p>
     <h4>To be</h4>
     <table>
     <tr>
         <td>I (Я)</td>
         <td><b>am</b></td>
-        <td>We(Ми)</td>
+        <td>We (Ми)</td>
         <td><b>are</b></td>
     <tr>
      <tr>
-        <td>You/(Ти)</td>
+        <td>You (Ти)</td>
         <td><b>are</b></td>
-        <td>You(Ви)</td>
+        <td>You (Ви)</td>
         <td><b>are</b></td>
     <tr>
     <tr>
-        <td>He/She/It (Він/Вона/Воно)</td>
+        <td>He/She/It<br> (Він/Вона/Воно)</td>
         <td><b>is</b></td>
-        <td>They(Вони)</td>
+        <td>They (Вони)</td>
         <td><b>are</b></td>
     <tr>
     </table>
