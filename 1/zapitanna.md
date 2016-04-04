@@ -71,6 +71,6 @@ Has he a dog? – Yes, he has a dog. <font color="orange">або </font> No, he 
 Do you have fun? – Yes, I have fun. <font color="orange">або </font> No, I don’t have fun.<br>
 Does he have a dog?  - Yes, he has a dog. <font color="orange">або </font> No, he doesn’t.</i>
 
-    
+ І повні, і скорочені варіанти написання є вірними. Все залежить від стилю вашої розмови.
 <hr>
 
