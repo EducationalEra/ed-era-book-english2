@@ -67,7 +67,7 @@ Has he a dog? – Yes, he has a dog. <font color="orange">або </font> No, he 
 
  <center><b>Американський</b> </center>
 <p>Використовується допоміжне дієслово:</p>
-<i>Do you have money? – Yes, I do. <font color="orange">або </font> No, I don’t.<br><br>
+<i>Do you have money? – Yes, I do. <font color="orange">або </font> No, I don’t.<br>
 Do you have fun? – Yes, I have fun. <font color="orange">або </font> No, I don’t have fun.<br>
 Does he have a dog?  - Yes, he has a dog. <font color="orange">або </font> No, he doesn’t.</i>
 
