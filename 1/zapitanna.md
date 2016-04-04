@@ -2,12 +2,12 @@
 
 <center><h3>Форма</h3></center>
 
-| <h4>?</h4> | Do/Does | Subject | do/does+not+verb | Object/Adverbial modifier |
-| -- | -- | -- | --| -- |
-| | Does |fame | define | you? |
-| | Does |Ann | belive | us? |
-| | Do |you | know | yourself good? |
-| | Do |we | need | education? |
+| Do/Does | Subject | do/does+not+verb | Object/Adverbial modifier |
+| -- | -- | --| -- |
+| Does |fame | defin<u><b>e</b></u> | you? |
+| Does |Ann | believ<u><b>e</b></u> | us? |
+| Do |you | know | yourself good? |
+| Do |we | need | education? |
 
 
 
@@ -32,7 +32,8 @@
     На запитання такого типу ми можемо дати відповідь двома шляхами.
     <ul>
     <li><i>Do Kate and Adam study biology?<br>
-    Yes, Kate and Adam study biology. <font color="orange"><b>або</b></font> Yes, they do.</i></li>
+    </i><b>Довгим:</b><i>
+    Yes, Kate and Adam study biology. <font color="orange"><b>або</b></font></i> <b>коротким:</b><i> Yes, they do.</i></li>
     </ul>
      <ul>
     <li><i>Does Mary dance very well?<br>
@@ -40,21 +41,25 @@
     </ul>
     <br>
     
+    Також, як у випадку із запереченням, дієслова <span class="p1"><b>to be</b></span> та <span class="p1"><b>to have</b></span> мають свої особливості утворення питальної форми.
+    
     <b>Запитання із дієсловом <span class="p1">to be</span></b> не потребують допоміжних дієслів, те ж саме стосується і заперечень.<br><br>
-    Утворюючи запитання, ми просто переносимо дієслово на початок:
+    Утворюючи запитання, ми просто переносимо <span class="p1"><b>to be</b></span> на початок:
     <ul>
-    <li>–She is pretty. <br>
-    –Is she pretty?<br>
-    –Yes, she is.
+    <li>– Are you an actor?<br>
+    – Is she famous?<br>
     </li>
     </ul>
     
-    Негативні відповіді на запитання можуть виглядати таким чином:
+    Відповісти на запитання, наприклад, <i>«Are you an actor?»</i>, ми можемо таким чином:
     <ul>
-    <li>–Is she pretty. <br>
-    –No, she isn't.
+    <li>– Yes, I am an actor. <br>
+    – Yes, I am.<br>
+    – No, I am not an actor. <br>
+    – No, I am not. <br>
     </li>
     </ul>
+    Як повний, так і скорочений варіанти є правильними.
   </div>
 </div>
 
