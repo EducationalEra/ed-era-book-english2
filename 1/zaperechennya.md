@@ -50,7 +50,8 @@
    При поєднанні допоміжного дієслова та заперечної частки можливі скорочені форми:<br>
     <i>We <u>do not</u> speak Russian. <font color="orange">або </font> We <u>don't</u> speak Russian.  <br>
     He <u>does not</u> speak Ukrainian. <font color="orange">або </font> He <u>doesn't</u> speak Ukrainian. </i>
-    
+    <hr>
+    <h4> Заперечення з To be:</h4>
 При утворенні заперечення із дієсловом <b>to be</b> є певні особливості, а саме – заперечні форми утворюються без застосування допоміжних дієслів.
 
 <table>
@@ -91,3 +92,12 @@
     <td>He/She/It isn't</td> 
   </tr>
 </table>
+<hr>
+ <h4> Заперечення з Have:</h4>
+ При утворенні заперечень із дієсловом <b>to have</b> можливі два варіанти:
+ 
+ <center><b>Британський:</b> </center>
+ Особливість британського варіанту в тому, що при утворенні заперечення не використовується допоміжне дієслово.
+ 
+ <i>People <u>have not</u> this idea of fame. <font color="orange">або </font> People <u>haven’t</u> this idea of fame. <br>
+    People <u>have not</u> any idea of fame. <font color="orange">або </font> People <u>haven’t</u> any idea of fame.</i>
