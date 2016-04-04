@@ -59,7 +59,7 @@
 Утворення запитання з <b>Have</b> допускає два можливі варіанти:
 
 <center><b>Британський</b> </center>
-<p>Без використання допоміжного дієслова:</p>
+<p>Без використання допоміжного дієслова.</p>
  
 <i>Have you any money? – Yes, I have money. <font color="orange">або </font> No, I haven’t any money. <br>
 Have you fun? – Yes, I have. <font color="orange">або </font> No, I haven’t. <br>
