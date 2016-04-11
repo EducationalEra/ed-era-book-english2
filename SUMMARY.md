@@ -24,7 +24,7 @@
 * Present Contunuous
    * Вживання Present Continuous
    * Утворюємо
-       * [Стверджувальні речення](4/rozpovidni_rechennya.md)
+       * Стверджувальні речення
        * [Заперечення](4/zaperechennya.md)
        * [Запитання](4/zapitannya.md)
 * [Past Continuous](5/past_continuous.md)
