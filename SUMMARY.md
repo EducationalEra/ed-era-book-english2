@@ -30,6 +30,6 @@
 * Past Continuous
    * Вживання Past Continuous
    * Утворення
-       * [Стверджувальні речення](5/rozpovidni_rechennya.md)
+       * Стверджувальні речення
        * [Заперечення](5/zaperechennya.md)
 
