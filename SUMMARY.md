@@ -27,7 +27,7 @@
        * Стверджувальні речення
        * Заперечення
        * Запитання
-* [Past Continuous](5/past_continuous.md)
+* Past Continuous
    * [Вживання Past Continuous](5/vjivannya.md)
    * [Утворення](5/utvorennya.md)
        * [Стверджувальні речення](5/rozpovidni_rechennya.md)
