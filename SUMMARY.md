@@ -18,7 +18,7 @@
 * Future Simple
    * Вживання Future Simple
    * Утворення
-       * [Стверджувальні речення](3/rozpovidni_rechennya.md)
+       * Стверджувальні речення
        * [Запитання](3/zapitannya.md)
        * [Заперечення](3/zaperechennya.md)
 * [Present Contunuous](4/Present_Continuous.md)
