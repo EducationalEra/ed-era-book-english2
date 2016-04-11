@@ -21,7 +21,7 @@
        * Стверджувальні речення
        * Запитання
        * Заперечення
-* [Present Contunuous](4/Present_Continuous.md)
+* Present Contunuous
    * [Вживання Present Continuous](4/vjivannya.md)
    * [Утворюємо](4/utvoryuyemo.md)
        * [Стверджувальні речення](4/rozpovidni_rechennya.md)
