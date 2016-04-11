@@ -20,7 +20,7 @@
    * Утворення
        * Стверджувальні речення
        * Запитання
-       * [Заперечення](3/zaperechennya.md)
+       * Заперечення
 * [Present Contunuous](4/Present_Continuous.md)
    * [Вживання Present Continuous](4/vjivannya.md)
    * [Утворюємо](4/utvoryuyemo.md)
