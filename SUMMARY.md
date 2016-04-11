@@ -16,8 +16,8 @@
        * Заперечення
        * Запитання
 * Future Simple
-   * [Вживання Future Simple](3/vjivannya.md)
-   * [Утворення](3/utvorennya.md)
+   * Вживання Future Simple
+   * Утворення
        * [Стверджувальні речення](3/rozpovidni_rechennya.md)
        * [Запитання](3/zapitannya.md)
        * [Заперечення](3/zaperechennya.md)
