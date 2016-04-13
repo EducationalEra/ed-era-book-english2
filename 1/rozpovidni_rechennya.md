@@ -57,7 +57,7 @@
 <div class="tab-content">
   <div id="home" class="tab-pane fade in active">
     <h3>Verb</h3>
-    <p>Дієслово в Present Simple вживається в тій самій формі інфінітива без частки <span class="p1">"to"</span>. Тобто ми беремо слово таким, його подано в словнику. Закінчення "s" додаємо лише в третій особі однини, а саме <span class="p1">he/she/it = він/вона/воно:</span><br>
+    <p>Дієслово в Present Simple вживаємо в тій самій формі інфінітива без частки <span class="p1">"to"</span>. Тобто ми беремо слово таким, яким його подано в словнику. Закінчення "s" додаємо лише в третій особі однини, а саме <span class="p1">he/she/it = він/вона/воно:</span><br>
     <i>I live in Los Angeles.</i> – Закінчення до слова <span class="p1">"live"</span> не додаємо, оскільки в ролі підмета маємо <span class="p1">"I"</span> – перша особа однини.<br>
     <i>Fulfillment comes from within.</i> – Додаємо закінчення до дієслова, оскільки <span class="p1">"fulfillment"</span> = it – третя особа однини.</p>
   </div>
