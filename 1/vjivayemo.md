@@ -3,7 +3,7 @@
  <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
-<b>Present Simple</b> — теперішній час, що вживається для позначення дій, які відбуваються:
+<b>Present Simple</b> — теперішній час, який вживають для позначення дій, які відбуваються:
 </div>
 </div>
 
@@ -33,7 +33,7 @@
     <td><i>My name is Cameron Diaz. I'm 41, on my way to 42. I am an actor.</i></td>
   </tr>
   <tr>
-    <td><b>Вказує на наявність істот/предметів як таких, або в конкретному місці. </b></td>
+    <td><b>Вказує на наявність істот/предметів як таких або в конкретному місці. </b></td>
     <td><i>There is a documentary film by Yann Arthus-Bertrand, called "Human".</i></td>
   </tr>
 </table>
@@ -42,6 +42,6 @@
 <div class="add-wrap">
 <span class="add">Звертаємо увагу!</span>
 <div class="add-text">
-Контекст вживання Present Simple зазвичай визначається такими словами:<br> <i>always, everyday (week,month, year, etc.) very often, usually, etc.</i>
+Контекст вживання Present Simple зазвичай визначається такими словами:<br> <i>always, every day (week,month, year, etc.) very often, usually, etc.</i>
 </div>
 </div>
