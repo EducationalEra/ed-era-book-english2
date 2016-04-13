@@ -12,11 +12,11 @@
 
    <b>Для утворення запитання</b> виносимо допоміжне дієслово на початок:
     <ul>
-    <li><b>Do</b> you prefer tea of cofee?</li>
+    <li><b>Do</b> you prefer tea of coffee?</li>
     </ul>
     Тут звертаємо увагу на те, що за умови наявності <b>does</b> в реченні, закінчення <b>s</b> до основного дієслова вже не додаємо:
      <ul>
-    <li><b>Do</b> you prefer tea of cofee?</li>
+    <li><b>Do</b> you prefer tea of coffee?</li>
     </ul>
     
 <br>
