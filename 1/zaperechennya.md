@@ -51,7 +51,7 @@
     <i>We <u>do not</u> speak Russian. <font color="orange">або </font> We <u>don't</u> speak Russian.  <br>
     He <u>does not</u> speak Ukrainian. <font color="orange">або </font> He <u>doesn't</u> speak Ukrainian. </i>
     <hr>
-    <h4> Заперечення з To be:</h4>
+    <h4> Заперечення з <span class="p1">to be</span>:</h4>
 При утворенні заперечення із дієсловом <b>to be</b> є певні особливості, а саме – заперечні форми утворюються без застосування допоміжних дієслів.
 
 <table>
@@ -94,7 +94,7 @@
   </tr>
 </table>
 <hr>
- <h4> Заперечення з Have:</h4>
+ <h4> Заперечення з <span class="p1">Have</span>:</h4>
  При утворенні заперечень із дієсловом <b>to have</b> можливі два варіанти:
  
  <center><b>Британський:</b> </center>
