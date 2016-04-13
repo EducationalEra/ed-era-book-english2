@@ -52,7 +52,7 @@
     He <u>does not</u> speak Ukrainian. <font color="orange">або </font> He <u>doesn't</u> speak Ukrainian. </i>
     <hr>
     <h4> Заперечення з <span class="p1">to be</span>:</h4>
-При утворенні заперечення із дієсловом <b>to be</b> є певні особливості, а саме – заперечні форми утворюються без застосування допоміжних дієслів.
+При утворенні заперечення з дієсловом <b>to be</b> є певні особливості, а саме – заперечні форми утворюються без застосування допоміжних дієслів.
 
 <table>
     <tr>
@@ -67,7 +67,7 @@
     <tr>
       <tr>
     </table>
-    Тобто ми утворюємо заперечну форму з дієсловом <span class="p1">to be</span> просто додаючи до нього часточку <b>not</b>.
+    Тобто ми утворюємо заперечну форму з дієсловом <span class="p1">to be</span> просто додаючи до нього частку <b>not</b>.
 
 Проте тут також можливі скорочення:
 
@@ -102,13 +102,13 @@
  
  <i>People <u>have not</u> this idea of fame. <font color="orange">або </font> People <u>haven’t</u> this idea of fame. <br>
     People <u>have not</u> any idea of fame. <font color="orange">або </font> People <u>haven’t</u> any idea of fame.<br>
-    He <u>has not</u> any dog. <font color="orange">або </font> He <u>hasn't</u> any dog. (Зверніть, будь ласка, увагу, що артикль упускається, оскільки на його місце стає <b>any</b>)
+    He <u>has not</u> any dog. <font color="orange">або </font> He <u>hasn't</u> any dog. (Зверніть, будь ласка, увагу, що артикль пропускаємо, оскільки на його місце стає <b>any</b>)
     </i>
     
 Також, ми можемо використати заперечний займенник <b>no</b>:
     
   <i>People <u>have no</u> idea of fame.<br>
-    He <u>has no</u> dog. (Зверніть, будь ласка, увагу, що артикль упускається, оскільки на його місце стає <b>no</b>)
+    He <u>has no</u> dog. (Зверніть, будь ласка, увагу, що артикль пропускаємо, оскільки на його місце стає <b>no</b>)
     </i>
     
      <center><b>Американський:</b></center>
