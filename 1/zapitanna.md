@@ -11,25 +11,38 @@
 
 
    <b>Для утворення запитання</b> виносимо допоміжне дієслово на початок:
-    <ul>
-    <li><b>Do</b> you prefer tea of coffee?</li>
-    </ul>
+   
+<table>
+    <tr>
+        <td>Do</td>
+        <td>you</td>
+        <td>live</td>
+        <td>in Los Angeles.</td>
+    </tr>    
+</table>
     Тут звертаємо увагу на те, що за умови наявності <b>does</b> в реченні, закінчення <b>s</b> до основного дієслова вже не додаємо:
-     <ul>
-    <li><b>Do</b> you prefer tea of coffee?</li>
-    </ul>
+     <table> 
+      <tr>
+        <td>Does</td>
+        <td>fame</td>
+        <td>define</td>
+        <td>you.</td>
+    </tr>  
+    </table>
     
 <br>
     <h5>Відповіді на запитання</h5>
-    На запитання такого типу ми можемо дати відповідь двома шляхами.
+    На запитання такого типу ми можемо дати відповідь двома шляхами:
     <ul>
     <li><i>Do Kate and Adam study biology?<br>
-    </i><b>Довгим:</b><i>
-    Yes, Kate and Adam study biology. <font color="orange"><b>або</b></font></i> <b>коротким:</b><i> Yes, they do.</i></li>
+    <b>Довгим:</b>
+    Yes, Kate and Adam study biology.<br>
+    <b>Коротким:</b> Yes, they do.</i></li>
     </ul>
      <ul>
     <li><i>Does Mary dance very well?<br>
-    Yes, Mary dances very well. <font color="orange"><b>або</b></font> Yes, Mary does.</i></li>
+    <b>Довгим:</b> Yes, Mary dances very well.<br> 
+    <b>Коротким:</b> Yes, Mary does.</i></li>
     </ul>
     <br>
     
@@ -56,7 +69,8 @@
     Як повний, так і скорочений варіанти є правильними.
 
  <h4> Запитання з <span class="p1">Have:</span></h4> 
-Утворення запитання з <b>Have</b> допускає два можливі варіанти.
+ 
+<!--Утворення запитання з <b>Have</b> допускає два можливі варіанти.
 
 <center><b>Британський</b> </center>
 <p>Без використання допоміжного дієслова:</p>
@@ -71,6 +85,16 @@ Has he a dog? – Yes, he has a dog. <font color="orange">або </font> No, he 
 Do you have fun? – Yes, I have fun. <font color="orange">або </font> No, I don’t have fun.<br>
 Does he have a dog?  - Yes, he has a dog. <font color="orange">або </font> No, he doesn’t.</i>
 
- І повні, і скорочені варіанти написання є правильним. Все залежить від стилю вашої розмови.
+ І повні, і скорочені варіанти написання є правильним. Все залежить від стилю вашої розмови.-->
+ 
+ Щодо <span class="p1">to have</span> ситуація аналогічна з утворенням заперечень
+ 
+ Ми вживаємо допоміжні дієслова <b>do/does</b> при утворенні заперечень, при цьому допоміжне дієслово виноситься на перед:
+
+<i>Do you have money? – Yes, I do. <font color="orange"> = </font> No, I don't.<br>
+Do you have fun? – Yes, I have fun. <font color="orange"> = </font> No, I don't have fun.<br>
+Does he have a dog?  - Yes, he has a dog. <font color="orange"> = </font> No, he doesn't. </i>
+
+
 <hr>
 
