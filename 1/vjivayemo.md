@@ -11,7 +11,7 @@
 <table>
   <tr>
     <td><b>Регулярно</b></td>
-    <td><i>I live in Los Angeles and New York.<br>
+    <td>I live in Los Angeles and New York.<br>
     The question I always ask them.</i></td> 
   </tr>
   <tr>
