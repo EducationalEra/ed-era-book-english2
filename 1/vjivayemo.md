@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td><b>Описує факти, закономірності, ідеї і т.ін.</b></td>
-    <td><i>Fulfillment comes from within you.<br>
+    <td>Fulfillment comes from within you.<br>
     Fame does not define me.</i></td> 
   </tr>
   <tr>
