@@ -122,6 +122,9 @@
     He <u>doesn't have</u> a dog.
     </i>-->
     
-    Утворючи заперечну форму з дієсловом <span class="p1">to have</span>, ми також використовуємо допоміжне дієслово <b>do/does</b> nа заперечну часточку <b>not</b>:
+ Утворючи заперечну форму з дієсловом <span class="p1">to have</span>, ми також використовуємо допоміжне дієслово <b>do/does</b> nа заперечну часточку <b>not</b>:
 
+<i>People <u>do not</u> have this idea of fame. <font color="orange">= </font> People <u>don't</u> have this idea of fame. <br>
+    He <u>does not</u> have a dog. <font color="orange">=</font>  He <u>doesn't</u> have a dog.<br>
+    </i>
     
