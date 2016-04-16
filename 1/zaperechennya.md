@@ -94,7 +94,10 @@
   </tr>
 </table>
 <hr>
- <h4> Заперечення з <span class="p1">Have</span>:</h4>
+
+<h4> Заперечення з <span class="p1">Have</span>:</h4>
+
+<!--
  При утворенні заперечень із дієсловом <b>to have</b> можливі два варіанти:
  
  <center><b>Британський:</b> </center>
@@ -117,4 +120,8 @@
 
   <i>People <u>don't have</u> idea of fame.<br>
     He <u>doesn't have</u> a dog.
-    </i>
+    </i>-->
+    
+    Утворючи заперечну форму з дієсловом <span class="p1">to have</span>, ми також використовуємо допоміжне дієслово <b>do/does</b> nа заперечну часточку <b>not</b>:
+
+    
