@@ -137,3 +137,10 @@
 <i>I <u>have not</u> got a country house. <font color="orange">=</font> I <u>haven't</u> got a country house.<br>
 She <u>has not</u> got very big ears. <font color="orange">=</font> She <u>hasn't</u> got very big ears.<br>
 He <u>has not</u> got brothers. <font color="orange">=</font> He <u>hasn't</u> got brothers.</i>
+
+
+Заперечення ми також можемо утворювати за допомогою заперечного займенника. У такому випадку дієслово ми не чіпаємо, а заперечна частка <b>no</b> стосується іменника перед яким вона стоїть:
+
+<i>People <u>have no</u> idea of fame.<br>
+    He <u>has no</u> dog. (Зверніть, будь ласка, увагу, що артикль пропускаємо, оскільки на його місце стає <b>no</b>)
+    </i>
