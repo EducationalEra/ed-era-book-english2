@@ -2,12 +2,12 @@
 
 <center><h3>Форма</h3></center>
 
-| Do/Does | Subject | do/does+not+verb | Object/Adverbial modifier |
+<!--| Do/Does | Subject | do/does+not+verb | Object/Adverbial modifier |
 | -- | -- | --| -- |
 | Does |fame | defin<u><b>e</b></u> | you? |
 | Does |Ann | believ<u><b>e</b></u> | us? |
 | Do |you | know | yourself good? |
-| Do |we | need | education? |
+| Do |we | need | education? |-->
 
 
    <b>Для утворення запитання</b> виносимо допоміжне дієслово на початок:
