@@ -95,6 +95,8 @@ Does he have a dog?  - Yes, he has a dog. <font color="orange">або </font> No
 Do you have fun? – Yes, I have fun. <font color="orange"> = </font> No, I don't have fun.<br>
 Does he have a dog?  - Yes, he has a dog. <font color="orange"> = </font> No, he doesn't. </i>
 
+Якщо мова йде про to <span class="p1">have got</span>, то можна не використовувати допоміжні дієслова, у такому випадку <b>have</b> виноситься на початок речення:
+
 
 <hr>
 
