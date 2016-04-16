@@ -48,8 +48,8 @@
     </table>-->
     
    При поєднанні допоміжного дієслова та заперечної частки можливі скорочені форми:<br>
-    <i>We <u>do not</u> speak Russian. <font color="orange">або </font> We <u>don't</u> speak Russian.  <br>
-    He <u>does not</u> speak Ukrainian. <font color="orange">або </font> He <u>doesn't</u> speak Ukrainian. </i>
+    <i>We <u>do not</u> speak Russian. <font color="orange">= </font> We <u>don't</u> speak Russian.  <br>
+    He <u>does not</u> speak Ukrainian. <font color="orange">= </font> He <u>doesn't</u> speak Ukrainian. </i>
     <hr>
     <h4> Заперечення з <span class="p1">to be</span>:</h4>
 При утворенні заперечення з дієсловом <b>to be</b> є певні особливості, а саме – заперечні форми утворюються без застосування допоміжних дієслів.
@@ -127,4 +127,13 @@
 <i>People <u>do not</u> have this idea of fame. <font color="orange">= </font> People <u>don't</u> have this idea of fame. <br>
     He <u>does not</u> have a dog. <font color="orange">=</font>  He <u>doesn't</u> have a dog.<br>
     </i>
+    <br>
     
+Тут варто згадати про існування дієслова <span class="p1">have got</span>. To have got перекладається так само як і <b>to have</b>, єдина різниця полягає в тому, що ми використовуємо to have got, коли говоримо про те, чим ми або хтось володіє, якась річ знаходиться у нашій власності або власності інших. Також, коли ми розповідаємо про сім’ю чи зовнішність.
+
+
+Однак, якщо ви викорустовуєте не просто <b>have</b>, а <b>have got</b>, то заперечення утворюється без допоміжного слова, а лише з додаванням заперечної частки <b>not</b>:
+
+<i>I haven't got a country house.<br>
+She hasn't got very big ears.<br>
+He hasn't got brothers.</i>
