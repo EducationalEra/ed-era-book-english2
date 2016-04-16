@@ -134,6 +134,6 @@
 
 Однак, якщо ви викорустовуєте не просто <b>have</b>, а <b>have got</b>, то заперечення утворюється без допоміжного слова, а лише з додаванням заперечної частки <b>not</b>:
 
-<i>I haven't got a country house.<br>
-She hasn't got very big ears.<br>
+<i>I <u>have not</u> got a country house. <font color="orange">=</font> I <u>haven't</u> got a country house.<br>
+She <u>has not</u> got very big ears. <font color="orange">=</font> She <u>hasn't</u> got very big ears.<br>
 He hasn't got brothers.</i>
