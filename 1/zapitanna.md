@@ -97,6 +97,8 @@ Does he have a dog?  - Yes, he has a dog. <font color="orange"> = </font> No, he
 
 Якщо мова йде про to <span class="p1">have got</span>, то можна не використовувати допоміжні дієслова, у такому випадку <b>have</b> виноситься на початок речення:
 
+<i>Have you got any money? – Yes, I have (got) money. <font color="orange"> = </font> No, I haven’t got any money. <br>
+Has he got a brother? – Yes, he has got a brother. <font color="orange"> = </font> No, he hasn’t got. </i>
 
 <hr>
 
