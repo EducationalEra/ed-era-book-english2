@@ -136,4 +136,4 @@
 
 <i>I <u>have not</u> got a country house. <font color="orange">=</font> I <u>haven't</u> got a country house.<br>
 She <u>has not</u> got very big ears. <font color="orange">=</font> She <u>hasn't</u> got very big ears.<br>
-He hasn't got brothers.</i>
+He <u>has not</u> got brothers. <font color="orange">=</font> He <u>hasn't</u> got brothers.</i>
