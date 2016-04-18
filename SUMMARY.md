@@ -57,6 +57,7 @@
        * Стверджувальні речення
        * Заперечення
        * Запитання
+* Types of questions.
 * Sentence Structure
    * Types of questions.
 
