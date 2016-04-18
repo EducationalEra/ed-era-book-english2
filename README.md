@@ -22,8 +22,6 @@
         * [Запитання](3/zapitannya.md)
         * [Заперечення](3/zaperechennya.md)-->
 
-
-* [Зміст](README.md)
 * [Вступне слово](vstup.md)
 * [Present Simple](1/present_simple.md)
    * [Вживання Present Simple](1/vjivayemo.md)
