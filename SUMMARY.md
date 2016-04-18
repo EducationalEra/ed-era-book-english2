@@ -41,5 +41,4 @@
        * Запитання
 * Present Perfect
    * Вживання Present Perfect
-       * Утворення
 
