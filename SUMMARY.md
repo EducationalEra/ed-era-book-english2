@@ -54,4 +54,5 @@
 * Future Perfect
    * Вживання Future Perfect
    * Утворення
+       * Стверджувальни речення
 
