@@ -1,7 +1,7 @@
 #Зміст
 
 
-1. [Вступне слово](vstup.md)
+<!--1. [Вступне слово](vstup.md)
 * [Present Simple](1/present_simple.md)
     1. [Вживання Present Simple](1/vjivayemo.md)
     2. [Утворення](1/utvoryuyemmo.md)
@@ -20,4 +20,67 @@
     2.  [Утворення](3/utvorennya.md)
         * [Розповідні речення](3/rozpovidni_rechennya.md)
         * [Запитання](3/zapitannya.md)
-        * [Заперечення](3/zaperechennya.md)
+        * [Заперечення](3/zaperechennya.md)-->
+
+
+* [Зміст](README.md)
+* [Вступне слово](vstup.md)
+* [Present Simple](1/present_simple.md)
+   * [Вживання Present Simple](1/vjivayemo.md)
+   * [Утворення](1/utvoryuyemmo.md)
+       * [Стверджувальні речення](1/rozpovidni_rechennya.md)
+       * [Заперечення](1/zaperechennya.md)
+       * [Запитання](1/zapitanna.md)
+   * [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
+* Past Simple
+   * Вживання Past Simple
+   * Утворення
+       * Стверджувальні речення
+       * Заперечення
+       * Запитання
+* Future Simple
+   * Вживання Future Simple
+   * Утворення
+       * Стверджувальні речення
+       * Запитання
+       * Заперечення
+* Present Contunuous
+   * Вживання Present Continuous
+   * Утворюємо
+       * Стверджувальні речення
+       * Заперечення
+       * Запитання
+* Past Continuous
+   * Вживання Past Continuous
+   * Утворення
+       * Стверджувальні речення
+       * Заперечення
+       * Запитання
+* Future Continuous
+   * Вживання Future Continuous
+   * Утворення
+       * Стверджувальні речення
+       * Заперечення
+       * Запитання
+* Present Perfect
+   * Вживання Present Perfect
+   * Утворення
+       * Стверджувальні речення
+       * Заперечення
+       * Запитання
+* Past Perfect
+   * Вживання Past Perfect
+   * Утворення
+       * Стверджувальні речення
+       * Заперечення
+       * Запитання
+* Future Perfect
+   * Вживання Future Perfect
+   * Утворення
+       * Стверджувальні речення
+       * Заперечення
+       * Запитання
+* Sentence Structure
+* Types of questions
+* Final Revision
+
