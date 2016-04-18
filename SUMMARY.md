@@ -47,5 +47,4 @@
        * Запитання
 * Past Perfect
    * Вживання Past Perfect
-       * Утворення
 
