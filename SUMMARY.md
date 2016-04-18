@@ -59,5 +59,4 @@
        * Запитання
 * Sentence Structure
    * Types of questions.
-   * Types of questions.
 
