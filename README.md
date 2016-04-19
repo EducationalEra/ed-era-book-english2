@@ -42,7 +42,7 @@
        * Стверджувальні речення
        * Запитання
        * Заперечення
-* Present Contunuous
+* Present Continuous
    * Вживання Present Continuous
    * Утворюємо
        * Стверджувальні речення
