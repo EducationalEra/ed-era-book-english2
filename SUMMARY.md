@@ -9,7 +9,7 @@
        * [Заперечення](1/zaperechennya.md)
        * [Запитання](1/zapitanna.md)
    * [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
-* Past Simple
+* [Past Simple](2/Past_Simple.md)
    * Вживання Past Simple
    * Утворення
        * Стверджувальні речення
