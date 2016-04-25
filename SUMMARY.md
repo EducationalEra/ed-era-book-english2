@@ -12,7 +12,7 @@
 * [Past Simple](2/Past_Simple.md)
    * [Вживання Past Simple](2/vjivayemo.md)
    * [Утворення](2/utvoryuyemmo.md)
-       * Стверджувальні речення
+       * [Стверджувальні речення](2/rozpovidni_rechennya.md)
        * Заперечення
        * Запитання
 * Future Simple
