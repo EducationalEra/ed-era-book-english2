@@ -25,7 +25,7 @@
    * Вживання Present Continuous
    * Утворення
        * Стверджувальні речення
-       * [Заперечення](4/zaperechennya.md)
+       * Заперечення
        * [Запитання](4/zapitannya.md)
 * Past Continuous
    * Вживання Past Continuous
