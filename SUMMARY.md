@@ -26,7 +26,7 @@
    * Утворення
        * Стверджувальні речення
        * Заперечення
-       * [Запитання](4/zapitannya.md)
+       * Запитання
 * Past Continuous
    * Вживання Past Continuous
    * [Утворення](5/utvorennya.md)
