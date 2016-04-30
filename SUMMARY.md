@@ -24,7 +24,7 @@
 * [Present Continuous](4/Present_Continuous.md)
    * [Вживання Present Continuous](4/vjivannya.md)
    * [Утворення](4/utvoryuyemo.md)
-       * Стверджувальні речення
+       * [Стверджувальні речення](4/rozpovidni_rechennya.md)
        * Заперечення
        * Запитання
 * Past Continuous
