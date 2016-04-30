@@ -19,7 +19,7 @@
    * Вживання Future Simple
    * Утворення
        * Стверджувальні речення
-       * [Запитання](3/zapitannya.md)
+       * Запитання
        * [Заперечення](3/zaperechennya.md)
 * Present Continuous
    * Вживання Present Continuous
