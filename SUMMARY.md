@@ -22,7 +22,7 @@
        * [Запитання](3/zapitannya.md)
        * [Заперечення](3/zaperechennya.md)
 * Present Continuous
-   * [Вживання Present Continuous](4/vjivannya.md)
+   * Вживання Present Continuous
    * [Утворення](4/utvoryuyemo.md)
        * [Стверджувальні речення](4/rozpovidni_rechennya.md)
        * [Заперечення](4/zaperechennya.md)
