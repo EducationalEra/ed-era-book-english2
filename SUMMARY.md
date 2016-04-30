@@ -31,7 +31,7 @@
    * [Вживання Past Continuous](5/vjivannya.md)
    * [Утворення](5/utvorennya.md)
        * [Стверджувальні речення](5/rozpovidni_rechennya.md)
-       * Заперечення
+       * [Заперечення](5/zaperechennya.md)
        * Запитання
 * Future Continuous
    * Вживання Future Continuous
