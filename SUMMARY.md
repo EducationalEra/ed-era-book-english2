@@ -30,7 +30,7 @@
 * Past Continuous
    * Вживання Past Continuous
    * [Утворення](5/utvorennya.md)
-       * [Стверджувальні речення](5/rozpovidni_rechennya.md)
+       * Стверджувальні речення
        * [Заперечення](5/zaperechennya.md)
        * Запитання
 * Future Continuous
