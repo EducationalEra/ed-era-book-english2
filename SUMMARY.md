@@ -2,6 +2,7 @@
 
 * [Зміст](README.md)
 * [Вступне слово](vstup.md)
+* Intro
 * [Present Simple](1/present_simple.md)
    * [Вживання Present Simple](1/vjivayemo.md)
    * [Утворення](1/utvoryuyemmo.md)
@@ -60,5 +61,4 @@
 * Sentence Structure
 * Types of questions
 * Final Revision
-* Intro
 
