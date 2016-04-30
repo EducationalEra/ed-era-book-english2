@@ -12,7 +12,7 @@
 * Past Simple
    * Вживання Past Simple
    * Утворення
-       * [Стверджувальні речення](2/rozpovidni_rechennya.md)
+       * Стверджувальні речення
        * [Заперечення](2/zaperechennya.md)
        * [Запитання](2/zapitannya.md)
 * Future Simple
