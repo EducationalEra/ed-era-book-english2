@@ -1,6 +1,4 @@
-#Intro
-
-<center><h4>Time vs. Tense</h4></center>
+#Time vs. Tense
 
 
 <div class="eoz-wrap">
