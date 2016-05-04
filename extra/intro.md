@@ -49,7 +49,7 @@
     <td><center>Past Simple Tense</center></td>
   </tr>
    <tr>
-    <td><center>Future Simple-in-the Past Tense</center></td>
+    <td><center>Future Simple-in-the-Past Tense</center></td>
   </tr>
    <tr>
     <td><center>Present Continuous Tense</center></td>
@@ -61,12 +61,30 @@
     <td><center>Past Continuous Tense</center></td>
   </tr>
    <tr>
-    <td><center>Future Continuous-in- the-Past Tense</center></td>
+    <td><center>Future Continuous-in-the-Past Tense</center></td>
   </tr>
    <tr>
-    <td><center>Present Simple Tense</center></td>
+    <td><center>Present Perfect Tense</center></td>
   </tr>
    <tr>
-    <td><center>Present Simple Tense</center></td>
+    <td><center>Future Perfect Tense</center></td>
+  </tr>
+  <tr>
+    <td><center>Past Perfect Tense</center></td>
+  </tr>
+  <tr>
+    <td><center>Future Perfect-in-the-Past Tense</center></td>
+  </tr>
+  <tr>
+    <td><center>Present Perfect Continuous Tense</center></td>
+  </tr>
+  <tr>
+    <td><center>Past Perfect Continuous Tense</center></td>
+  </tr>
+  <tr>
+    <td><center>Future Perfect Continuous Tense</center></td>
+  </tr>
+  <tr>
+    <td><center>Future Perfect Continuous-in-the-Past Tense</center></td>
   </tr>
 </table>
