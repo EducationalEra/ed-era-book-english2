@@ -37,3 +37,36 @@
 <hr>
 
 Для означення часової категорії дієслова в англійській мові використовується слово "tense" (граматичний час) і таких часів налічують 16:
+
+<table>
+  <tr>
+    <td><center>Present Simple Tense</center></td>
+  </tr>
+   <tr>
+    <td><center>Future Simple Tense</center></td>
+  </tr>
+   <tr>
+    <td><center>Past Simple Tense</center></td>
+  </tr>
+   <tr>
+    <td><center>Future Simple-in-the Past Tense</center></td>
+  </tr>
+   <tr>
+    <td><center>Present Continuous Tense</center></td>
+  </tr>
+   <tr>
+    <td><center>Future Continuous Tense</center></td>
+  </tr>
+   <tr>
+    <td><center>Past Continuous Tense</center></td>
+  </tr>
+   <tr>
+    <td><center>Future Continuous-in- the-Past Tense</center></td>
+  </tr>
+   <tr>
+    <td><center>Present Simple Tense</center></td>
+  </tr>
+   <tr>
+    <td><center>Present Simple Tense</center></td>
+  </tr>
+</table>
