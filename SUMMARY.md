@@ -2,7 +2,7 @@
 
 * [Зміст](README.md)
 * [Вступне слово](vstup.md)
-* Intro
+* [Intro](extra/intro.md)
 * [Present Simple](1/present_simple.md)
    * [Вживання Present Simple](1/vjivayemo.md)
    * [Утворення](1/utvoryuyemmo.md)
