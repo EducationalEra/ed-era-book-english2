@@ -3,7 +3,7 @@
  <div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
-<b>Past Simple</b> — час, в якому дія відбувалася в минулому:
+<b>Past Simple</b> — форма минулого часу, що використовується для позначення дій, які відбувались в минулому.
 </div>
 </div>
 
