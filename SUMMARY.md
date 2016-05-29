@@ -16,7 +16,6 @@
        * Стверджувальні речення
        * Заперечення
        * Запитання
-* [Таблиця неправильних дієслів](2/tablitsya_nepravilnih_diesliv.md)
 * Future Simple
    * Вживання Future Simple
    * Утворення
@@ -59,6 +58,7 @@
        * Стверджувальні речення
        * Заперечення
        * Запитання
+* [Таблиця неправильних дієслів](2/tablitsya_nepravilnih_diesliv.md)
 * Sentence Structure
 * Types of questions
 * Final Revision
