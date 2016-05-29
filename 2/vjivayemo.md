@@ -15,15 +15,15 @@
 </i></td> 
   </tr>
   <tr>
-    <td><b>Описує факти</b></td>
+    <td><b>Факти</b></td>
     <td><i>Kharkiv <span class="p1">was the capital</span> of Ukraine</i></td> 
   </tr>
   <tr>
-    <td><b>Описує почуття, відчуття</b></td>
+    <td><b>Почуття, відчуття</b></td>
     <td><i>They <span class="p1">loved</span> us so deeply.</i></td> 
   </tr>
     <tr>
-    <td><b>Описує думки</b></td>
+    <td><b>Думки</b></td>
     <td>I <span class="p1">didn’t know</span>.</i></td>
   </tr>
   <tr>
@@ -31,11 +31,11 @@
     <td><i>I <span class="p1">was very fortunate</span>.</i></td>
   </tr>
   <tr>
-    <td><b>Вказує на наявність десь чогось. </b></td>
+    <td><b>Вказує на наявність десь чогось </b></td>
     <td><i>There <span class="p1">were always lessons</span>.</i></td>
   </tr>
    <tr>
-    <td><b>І закінчилась (про подію або дію)</b></td>
+    <td><b>Разова дія, що закінчилась</b></td>
     <td><i>They just <span class="p1">gave us</span> everything.</i></td>
   </tr>
 </table>
