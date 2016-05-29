@@ -51,7 +51,7 @@
 <span class="exmpl">Виняток:</span>
 <div class="exmpl-text">
 <b>To be</b><br>
-Як і у випадку із запитаннями, для утворення заперечень <b>to be</b> не потребує допоміжних дієслів.<br>
+Як і у випадку із Present Simple, для утворення заперечень <b>to be</b> не потребує допоміжних дієслів.<br>
 <i>She was not here yesterday.<br>
 They were ill last week.</i>
 </div>
