@@ -30,3 +30,10 @@
 <b>Правильні дієслова</b> – утворюють форму минулого часу за допомогою додавання закінчення <span class="p1">-ed</span> до інфінітиву (без частки to).
 </div>
 </div>
+
+Наприклад:
+<ul>
+   <li>work (Infinitive) – work<span class="p1">ed</span> (Past)</li>
+   <li>play (Infinitive) – play<span class="p1">ed</span> (Past)</li>
+   <li>dance (Infinitive) – danc<span class="p1">ed</span> (Past)</li>
+</ul>
