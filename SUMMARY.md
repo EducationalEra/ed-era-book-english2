@@ -9,6 +9,7 @@
        * [Стверджувальні речення](1/rozpovidni_rechennya.md)
        * [Заперечення](1/zaperechennya.md)
        * [Запитання](1/zapitanna.md)
+   * [Таблиця неправильних дієслів](2/tablitsya_nepravilnih_diesliv.md)
    * [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
 * Past Simple
    * [Вживання Past Simple](2/vjivayemo.md)
@@ -58,7 +59,6 @@
        * Стверджувальні речення
        * Заперечення
        * Запитання
-* [Таблиця неправильних дієслів](2/tablitsya_nepravilnih_diesliv.md)
 * Sentence Structure
 * Types of questions
 * Final Revision
