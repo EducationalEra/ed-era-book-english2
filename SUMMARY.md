@@ -10,7 +10,7 @@
        * [Заперечення](1/zaperechennya.md)
        * [Запитання](1/zapitanna.md)
    * [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
-   * Таблиця неправильних дієслів
+   * [Таблиця неправильних дієслів](2/tablitsya_nepravilnih_diesliv.md)
 * Past Simple
    * [Вживання Past Simple](2/vjivayemo.md)
    * [Утворення](2/utvoryuyemmo.md)
