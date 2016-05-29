@@ -1,13 +1,35 @@
 #Запитання
 
-<center><h3>Форма</h3></center>
+Запитання ми утворюємо ставлячи допоміжне дієслово <span class="]1">did на початок речення. Зверніть, будь ласка, увагу на те, що при цьому
+основне дієслово ми ставимо в форму інфінітиву без частки to:
 
-| <h4>?</h4>| Did |Subject | verb | Object/Adverbial modifier |
-| -- | -- | -- | -- | -- |
-| | Did |  you | know | her? |
-| | Did |  we | need | education? |
-| | Did |  Ann | watch | TV? |
-| | Did |  she | know | her before? |
+<table>
+    <tr>
+        <td>Did</td>
+        <td>you</td>
+        <td>know</td>
+        <td>her?</td>
+    </tr>
+    <tr>
+        <td>Did</td>
+        <td>we</td>
+        <td>need</td>
+        <td>education?</td>
+    </tr>
+     <tr>
+        <td>Did</td>
+        <td>Ann</td>
+        <td>watch</td>
+        <td>TV?</td>
+    </tr>
+     <tr>
+        <td>Did</td>
+        <td>know</td>
+        <td>her</td>
+        <td>before?</td>
+    </tr>
+    </table>
+
 <br>
 
 
