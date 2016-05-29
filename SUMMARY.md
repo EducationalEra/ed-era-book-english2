@@ -16,7 +16,7 @@
    * [Утворення](2/utvoryuyemmo.md)
        * [Стверджувальні речення](2/rozpovidni_rechennya.md)
        * [Заперечення](2/zaperechennya.md)
-       * Запитання
+       * [Запитання](2/zapitannya.md)
 * Future Simple
    * Вживання Future Simple
    * Утворення
