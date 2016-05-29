@@ -45,8 +45,18 @@
     Використовується лише для утворення запитань або заперечень.</p>
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h3>Запитання</h3>
-    <p>Запитання в  Past Simple ми утворюватимемо за допомогою допоміжного дієслова did.<br>
+    <h3>Відповіді на запитання</h3>
+    Запитання із дієсловом <b>to be</b> не потребують допоміжних дієслів, як і заперечення.<br>
+    Утворюючи запитання ми переносимо to be
+на початок речення:
+    <br>
+    <ul>
+    <li>Were you very fortunate?<br>
+    Yes, I was very fortunate. <font color="orange">OR</font> Yes, I was.<br>
+No, I wasn't very fortunate. <font color="orange">OR</font> No, I wansn't. <li>
+</ul>
+    
+   <!-- <p>Запитання в  Past Simple ми утворюватимемо за допомогою допоміжного дієслова did.<br>
     Це стосується як правильних, так і неправильних дієслів.<br>
     Як і у Past Simple, ставимо його на початок речення.</p>
     <i>I worked today. – Did she come here yesterday?</i>
@@ -71,4 +81,5 @@
 </div>
 </p>
   </div>
+  -->
 </div>
