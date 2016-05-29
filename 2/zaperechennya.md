@@ -53,17 +53,17 @@
 <b>To be</b><br>
 Як і у випадку із Present Simple, для утворення заперечень <b>to be</b> не потребує допоміжних дієслів.<br>
 <i>She was not here yesterday.<br>
-They were ill last week.</i>
+They were ill last week.</i><br>
+I was very fortunate.</i>
 </div>
 </div>
 <br>
 <div class="add-wrap">
-<span class="add">Звертаємо увагу!</span>
+<span class="add">Звертаємо увагу на скорочені форми!</span>
 <div class="add-text">
 <ul>
-<li>Did not = didn't</li>
-<li>Where not = weren't</li>
-<li>Was not = wasn't</li>
+<li>Were not = weren't (They weren't here yesterday)</li>
+<li>Was not = wasn't (I wasn't very fortunate.)</li>
 </ul>
 </div>
 </div>
