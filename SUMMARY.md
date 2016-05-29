@@ -12,7 +12,7 @@
    * [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
 * Past Simple
    * [Вживання Past Simple](2/vjivayemo.md)
-   * Утворення
+   * [Утворення](2/utvoryuyemmo.md)
        * Стверджувальні речення
        * Заперечення
        * Запитання
