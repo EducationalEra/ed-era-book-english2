@@ -53,9 +53,19 @@
     <ul>
     <li>Were you very fortunate?<br>
     Yes, I was very fortunate. <font color="orange">OR</font> Yes, I was.<br>
-No, I wasn't very fortunate. <font color="orange">OR</font> No, I wansn't. <li>
+No, I wasn't very fortunate. <font color="orange">OR</font> No, I wansn't. </li>
 </ul>
     
+    Існує два шляхи дати відповіді на запитання в Past Simple:
+    Did they love us so deeply?<br>
+     <ul>
+    <li>Довгим:<br>
+    Yes, they loved us so deeply.<br>
+No, they did not love us so deeply.</li>
+<li>Коротким:<br>
+    Yes, they did.<br>
+No, they didn't.</li>
+</ul>
    <!-- <p>Запитання в  Past Simple ми утворюватимемо за допомогою допоміжного дієслова did.<br>
     Це стосується як правильних, так і неправильних дієслів.<br>
     Як і у Past Simple, ставимо його на початок речення.</p>
