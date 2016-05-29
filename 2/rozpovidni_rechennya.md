@@ -1,14 +1,39 @@
 #Стверджувальні речення
 
-<center><h3>Форма</h3></center>
+Розповідні або стверджувальні речення в Past Simple виглядають наступним чином:
 
-| <h4>+</h4> |Subject | Verb + Ending "ed"/II form of the verb | Object/Adverbial modifier |
+
+  <table>
+    <tr>
+        <td>They</td>
+        <td>loved</td>
+        <td>us so deeply.</td>
+    </tr>
+    <tr>
+        <td>They</td>
+        <td>gave</td>
+        <td>us everything.</td>
+    </tr>
+    <tr>
+        <td>I</td>
+        <td>was</td>
+        <td>very fortunate.</td>
+    </tr>
+    <tr>
+        <td>We</td>
+        <td>lived</td>
+        <td>together.</td>
+    </tr>
+    </table>
+    
+<!--| <h4>+</h4> |Subject | Verb + Ending "ed"/II form of the verb | Object/Adverbial modifier |
 | -- | -- | -- | --| 
 | | They | loved | us so deeply. |
 | | They | gave | us everything. |
 | | I | was | very fortunate. |
 | | We | lived | together. |
-<br>
+<br>-->
+
 
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#home">Verb</a></li>
