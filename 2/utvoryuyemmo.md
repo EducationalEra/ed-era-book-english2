@@ -46,6 +46,13 @@
 </div>
 </div>
 
+Наприклад:
+<ul>
+   <li>to teach (Infinitive) - taught (Past)</li>
+   <li>to run (Infinitive) - ran (Past)</li>
+   <li>to cut (Infinitive) - cut (Past)</li>
+</ul>
+
 В англійській мові налічується близько 200 неправильних
 дієслів і ознайомитись з ними можна в [таблиці неправильних дієслів](http://english2.ed-era.com/2/tablitsya_nepravilnih_diesliv.html).
 
