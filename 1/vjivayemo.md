@@ -1,6 +1,6 @@
 #Вживання Present Simple
 
- <div class="eoz-wrap">
+<div class="eoz-wrap">
 <span class="eoz">Визначення</span>
 <div class="eoz-text">
 <b>Present Simple</b> — теперішній час, який вживають для позначення дій, які відбуваються:
