@@ -23,7 +23,7 @@
 
 <ul class="nav nav-tabs">
 <li class="active"><a data-toggle="tab" href="#home">Did</a></li>
- <li><a data-toggle="tab" href="#menu1">NOT</a></li>
+ <li><a data-toggle="tab" href="#menu1">Not</a></li>
  </ul>
 
 <div class="tab-content">
@@ -52,9 +52,9 @@
 <div class="exmpl-text">
 <b>To be</b><br>
 Як і у випадку із Present Simple, для утворення заперечень <b>to be</b> не потребує допоміжних дієслів.<br>
-<i>She was not here yesterday.<br>
-They were ill last week.</i><br>
-I was very fortunate.</i>
+<i>She was not here yesterday.</i><br>
+<i>They were ill last week.</i><br>
+<i>I was very fortunate.</i>
 </div>
 </div>
 <br>
