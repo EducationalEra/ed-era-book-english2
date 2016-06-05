@@ -4,46 +4,38 @@
 <table class="centered-table">
 <tr>
 <td align="center"><a href="#A"><span class="p1">А</span> а</a></td>
-<td align="center"><span class="p1">Б</span> б</td>
-<td align="center"><span class="p1">В</span> в</td>
-<td align="center"><span class="p1">Г</span> г</td>
-<td align="center"><span class="p1">Ґ</span> ґ</td>
-<td align="center"><span class="p1">Д</span> д</td>
-<td align="center"><span class="p1">Е</span> е</td>
+<td align="center"><span class="p1">B</span> b</td>
+<td align="center"><span class="p1">C</span> c</td>
+<td align="center"><span class="p1">D</span> d</td>
+<td align="center"><span class="p1">E</span> e</td>
+<td align="center"><span class="p1">F</span> f</td>
+<td align="center"><span class="p1">G</span> g</td>
 </tr>
 <tr>
-<td align="center"><span class="p1">Є</span> є</td>
-<td align="center"><span class="p1">Ж</span> ж</td>
-<td align="center"><span class="p1">З</span> з</td>
-<td align="center"><span class="p1">И</span> и</td>
-<td align="center"><span class="p1">I</span> і</td>
-<td align="center"><span class="p1">Ї</span> ї</td>
-<td align="center"><span class="p1">Й</span> й</td>
+<td align="center"><span class="p1">H</span> h</td>
+<td align="center"><span class="p1">I</span> i</td>
+<td align="center"><span class="p1">J</span> j</td>
+<td align="center"><span class="p1">K</span> k</td>
+<td align="center"><span class="p1">L</span> l</td>
+<td align="center"><span class="p1">M</span> m</td>
+<td align="center"><span class="p1">N</span> n</td>
 </tr>
 <tr>
-<td align="center"><span class="p1">К</span> к</td>
-<td align="center"><span class="p1">Л</span> л</td>
-<td align="center"><span class="p1">М</span> м</td>
-<td align="center"><span class="p1">Н</span> н</td>
-<td align="center"><span class="p1">О</span> о</td>
-<td align="center"><span class="p1">П</span> п</td>
-<td align="center"><span class="p1">Р</span> р</td>
+<td align="center"><span class="p1">O</span> o</td>
+<td align="center"><span class="p1">P</span> p</td>
+<td align="center"><span class="p1">Q</span> q</td>
+<td align="center"><span class="p1">R</span> r</td>
+<td align="center"><span class="p1">S</span> s</td>
+<td align="center"><span class="p1">T</span> t</td>
+<td align="center"><span class="p1">U</span> u</td>
 </tr>
 <tr>
-<td align="center"><span class="p1">С</span> с</td>
-<td align="center"><span class="p1">Т</span> т</td>
-<td align="center"><span class="p1">У</span> у</td>
-<td align="center"><span class="p1">Ф</span> ф</td>
-<td align="center"><span class="p1">Х</span> х</td>
-<td align="center"><span class="p1">Ц</span> ц</td>
-<td align="center"><span class="p1">Ч</span> ч</td>
-</tr>
-<tr>
-<td align="center"><span class="p1">Ш</span> ш</td>
-<td align="center"><span class="p1">Щ</span> щ</td>
-<td align="center"><span class="p1">Ь</span> ь</td>
-<td align="center"><span class="p1">Ю</span> ю</td>
-<td align="center"><a href="#W"><span class="p1">Z</span> z</a></td>
+
+<td align="center"><span class="p1">V</span> V</td>
+<td align="center"><span class="p1">W</span> w</td>
+<td align="center"><span class="p1">X</span> x</td>
+<td align="center"><span class="p1">Y</span> y</td>
+<td align="center"><span class="p1">Z</span> z</td>
 <td></td>
 <td></td>
 </tr>
