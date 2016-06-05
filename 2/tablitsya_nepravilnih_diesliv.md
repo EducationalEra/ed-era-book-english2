@@ -18,26 +18,17 @@
 <td align="center"><a href="#K"><span class="p1">K</span> k</a></td>
 <td align="center"><a href="#L"><span class="p1">L</span> l</a></td>
 <td align="center"><a href="#M"><span class="p1">M</span> m</a></td>
-<td align="center"><a href="#N"><span class="p1">N</span> n</a></td>
+<td align="center"><a href="#O"><span class="p1">O</span> o</a></td>
 </tr>
 <tr>
-<td align="center"><a href="#O"><span class="p1">O</span> o</a></td>
+
 <td align="center"><a href="#P"><span class="p1">P</span> p</a></td>
 <td align="center"><a href="#Q"><span class="p1">Q</span> q</a></td>
 <td align="center"><a href="#R"><span class="p1">R</span> r</a></td>
 <td align="center"><a href="#S"><span class="p1">S</span> s</a></td>
 <td align="center"><a href="#T"><span class="p1">T</span> t</a></td>
 <td align="center"><a href="#U"><span class="p1">U</span> u</a></td>
-</tr>
-<tr>
-
-<td align="center"><a href="#V"><span class="p1">V</span> v</a></td>
 <td align="center"><a href="#W"><span class="p1">W</span> w</a></td>
-<td align="center"><a href="#X"><span class="p1">X</span> x</a></td>
-<td align="center"><a href="#Y"><span class="p1">Y</span> y</a></td>
-<td align="center"><a href="#Z"><span class="p1">Z</span> z</a></td>
-<td></td>
-<td></td>
 </tr>
 </table>
 </div>
