@@ -4,43 +4,44 @@
 <table class="centered-table">
 <tr>
 <td align="center"><a href="#A"><span class="p1">А</span> а</a></td>
-<td align="center"><span class="p1">B</span> b</td>
-<td align="center"><span class="p1">C</span> c</td>
-<td align="center"><span class="p1">D</span> d</td>
-<td align="center"><span class="p1">E</span> e</td>
-<td align="center"><span class="p1">F</span> f</td>
-<td align="center"><span class="p1">G</span> g</td>
+<td align="center"><a href="#B"><span class="p1">B</span> b</a></td>
+<td align="center"><a href="#C"><span class="p1">C</span> c</a></td>
+<td align="center"><a href="#D"><span class="p1">D</span> d</a></td>
+<td align="center"><a href="#E"><span class="p1">E</span> e</a></td>
+<td align="center"><a href="#F"><span class="p1">F</span> f</a></td>
+<td align="center"><a href="#G"><span class="p1">G</span> g</a></td>
 </tr>
 <tr>
-<td align="center"><span class="p1">H</span> h</td>
-<td align="center"><span class="p1">I</span> i</td>
-<td align="center"><span class="p1">J</span> j</td>
-<td align="center"><span class="p1">K</span> k</td>
-<td align="center"><span class="p1">L</span> l</td>
-<td align="center"><span class="p1">M</span> m</td>
-<td align="center"><span class="p1">N</span> n</td>
+<td align="center"><a href="#H"><span class="p1">H</span> h</a></td>
+<td align="center"><a href="#I"><span class="p1">I</span> i</a></td>
+<td align="center"><a href="#J"><span class="p1">J</span> j</a></td>
+<td align="center"><a href="#K"><span class="p1">K</span> k</a></td>
+<td align="center"><a href="#L"><span class="p1">L</span> l</a></td>
+<td align="center"><a href="#M"><span class="p1">M</span> m</a></td>
+<td align="center"><a href="#N"><span class="p1">N</span> n</a></td>
 </tr>
 <tr>
-<td align="center"><span class="p1">O</span> o</td>
-<td align="center"><span class="p1">P</span> p</td>
-<td align="center"><span class="p1">Q</span> q</td>
-<td align="center"><span class="p1">R</span> r</td>
-<td align="center"><span class="p1">S</span> s</td>
-<td align="center"><span class="p1">T</span> t</td>
-<td align="center"><span class="p1">U</span> u</td>
+<td align="center"><a href="#O"><span class="p1">O</span> o</a></td>
+<td align="center"><a href="#P"><span class="p1">P</span> p</a></td>
+<td align="center"><a href="#Q"><span class="p1">Q</span> q</a></td>
+<td align="center"><a href="#R"><span class="p1">R</span> r</a></td>
+<td align="center"><a href="#S"><span class="p1">S</span> s</a></td>
+<td align="center"><a href="#T"><span class="p1">T</span> t</a></td>
+<td align="center"><a href="#U"><span class="p1">U</span> u</a></td>
 </tr>
 <tr>
 
-<td align="center"><span class="p1">V</span> V</td>
-<td align="center"><span class="p1">W</span> w</td>
-<td align="center"><span class="p1">X</span> x</td>
-<td align="center"><span class="p1">Y</span> y</td>
-<td align="center"><span class="p1">Z</span> z</td>
+<td align="center"><a href="#V"><span class="p1">V</span> v</a></td>
+<td align="center"><a href="#W"><span class="p1">W</span> w</a></td>
+<td align="center"><a href="#X"><span class="p1">X</span> x</a></td>
+<td align="center"><a href="#Y"><span class="p1">Y</span> y</a></td>
+<td align="center"><a href="#Z"><span class="p1">Z</span> z</a></td>
 <td></td>
 <td></td>
 </tr>
 </table>
 </div>
+
 
 <hr>
 
