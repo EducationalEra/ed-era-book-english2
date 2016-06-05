@@ -23,6 +23,8 @@
         * [Заперечення](3/zaperechennya.md)-->
 
 * [Вступне слово](vstup.md)
+* [Time vs. Tense](extra/time_versus_tense.md)
+* [Таблиця неправильних дієслів](2/tablitsya_nepravilnih_diesliv.md)
 * [Present Simple](1/present_simple.md)
    * [Вживання Present Simple](1/vjivayemo.md)
    * [Утворення](1/utvoryuyemmo.md)
@@ -30,12 +32,12 @@
        * [Заперечення](1/zaperechennya.md)
        * [Запитання](1/zapitanna.md)
    * [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
-* Past Simple
-   * Вживання Past Simple
-   * Утворення
-       * Стверджувальні речення
-       * Заперечення
-       * Запитання
+* [Past Simple](2/Past_Simple.md)
+   * [Вживання Past Simple](2/vjivayemo.md)
+   * [Утворення](2/utvoryuyemmo.md)
+       * [Стверджувальні речення](2/rozpovidni_rechennya.md)
+       * [Заперечення](2/zaperechennya.md)
+       * [Запитання](2/zapitannya.md)
 * Future Simple
    * Вживання Future Simple
    * Утворення
