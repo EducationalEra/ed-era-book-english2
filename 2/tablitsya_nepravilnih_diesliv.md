@@ -3,7 +3,7 @@
 <div class="centered-table-wrapper">
 <table class="centered-table">
 <tr>
-<td align="center"><a href="#A"><span class="p1">А</span></a> а</td>
+<td align="center"><a href="#A"><span class="p1">А</span> а</a></td>
 <td align="center"><span class="p1">Б</span> б</td>
 <td align="center"><span class="p1">В</span> в</td>
 <td align="center"><span class="p1">Г</span> г</td>
@@ -43,7 +43,7 @@
 <td align="center"><span class="p1">Щ</span> щ</td>
 <td align="center"><span class="p1">Ь</span> ь</td>
 <td align="center"><span class="p1">Ю</span> ю</td>
-<td align="center"><span class="p1">Я</span> я</td>
+<td align="center"><a href="#Z"><span class="p1">Z</span> z</a></td>
 <td></td>
 <td></td>
 </tr>
