@@ -15,7 +15,7 @@
 
 
 <div class="add-wrap">
-<span class="add">Звертаємо увагу!</span>
+<span class="add">Зверніть увагу!</span>
 <div class="add-text">
 В англійській мові часто використовують скорочену форму задля економії часу та літер. Це ніяк не впливає на значення та переклад: <i>It's cold, It's sunny, It's interesting.</i>
 </div>
