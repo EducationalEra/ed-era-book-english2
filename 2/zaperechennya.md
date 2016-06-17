@@ -18,21 +18,22 @@
         <td>did not live</td>
         <td>together.</td>
     </tr>
-    </table>
+</table>
 
-
-<ul class="nav nav-tabs">
-<li class="active"><a data-toggle="tab" href="#home">Did</a></li>
- <li><a data-toggle="tab" href="#menu1">Not</a></li>
- </ul>
-
-<div class="tab-content">
-  <div id="home" class="tab-pane fade in active">
-    <h3>Did</h3>
-    <p><b>Did</b> – вживається у всіх особах однини та множини як з правильними, так і з неправильними дієсловами.<br>
-    Використовується лише для утворення запитань або заперечень.</p>
-  </div>
-  <div id="menu1" class="tab-pane fade">
+<div>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Did</a></li>
+    <li role="presentation"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">Not</a></li>
+  </ul>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="home">
+        <h3>Did</h3>
+        <p><b>Did</b> – вживається у всіх особах однини та множини як з правильними, так і з неправильними дієсловами.<br>
+        Використовується лише для утворення запитань або заперечень.</p>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="menu1">
     <h3>Not</h3>
     <p>Заперечення утворюємо за тим самим принципом, що і в Present Simple, – допоміжне дієслово + <b>not</b>.</p>
     <p>Допоміжне дієслово розміщуємо перед основним<br> (пам’ятаємо, що тоді закінчення <span class="p1">ed</span> вже не додаємо, неправильні дієслова – в інфінітиві без частки <b>to</b>):</p>
@@ -45,27 +46,29 @@
     </ol>
     <li>They did not eat chocolate yesterday.</li> (the same) 
     </ul>
-   <br> 
-
-<div class="exmpl-wrap">
-<span class="exmpl">Виняток:</span>
-<div class="exmpl-text">
-<b>To be</b><br>
-Як і у випадку із Present Simple, для утворення заперечень <b>to be</b> не потребує допоміжних дієслів.<br>
-<i>She was not here yesterday.</i><br>
-<i>They were ill last week.</i><br>
-<i>I was very fortunate.</i>
-</div>
-</div>
-<br>
-<div class="add-wrap">
-<span class="add">Звертаємо увагу на скорочені форми!</span>
-<div class="add-text">
-<ul>
-<li>Were not = weren't (They weren't here yesterday)</li>
-<li>Was not = wasn't (I wasn't very fortunate.)</li>
-</ul>
-</div>
-</div>
+    <br>
+        <div class="exmpl-wrap">
+        <span class="exmpl">Виняток:</span>
+        <div class="exmpl-text">
+        <b>To be</b><br>
+        Як і у випадку із Present Simple, для утворення заперечень <b>to be</b> не потребує допоміжних дієслів.<br>
+        <i>She was not here yesterday.</i><br>
+        <i>They were ill last week.</i><br>
+        <i>I was very fortunate.</i>
+        </div>
+        </div>
+        <br>
+        <br>
+        <div class="add-wrap">
+        <span class="add">Зверніть увагу на скорочені форми!</span>
+        <div class="add-text">
+        <ul>
+        <li>Were not = weren't (They weren't here yesterday)</li>
+        <li>Was not = wasn't (I wasn't very fortunate.)</li>
+        </ul>
+        </div>
+        </div>
+    </div>
   </div>
 </div>
+
