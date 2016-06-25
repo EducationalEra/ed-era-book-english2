@@ -21,7 +21,7 @@
    * [Вживання Future Simple](3/vjivannya.md)
    * [Утворення](3/utvorennya.md)
        * [Стверджувальні речення](3/rozpovidni_rechennya.md)
-       * Запитання
+       * [Запитання](3/zapitannya.md)
        * Заперечення
 * Present Continuous
    * Вживання Present Continuous
