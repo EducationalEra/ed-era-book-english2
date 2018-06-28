@@ -14,10 +14,19 @@ In this video you will:
 
 <br>
 
-<img class="image" src="./3.png">
+<img class="image" src="./12.png">
 <br>
-<img class="image" src="./4.png">
-
+<img class="image" src="./13.png">
+<br>
+<img class="image" src="./14.png">
+<br>
+<img class="image" src="./15.png">
+<br>
+<img class="image" src="./16.png">
+<br>
+<img class="image" src="./17.png">
+<br>
+<img class="image" src="./18.png">
 
 ### Exercise
 
