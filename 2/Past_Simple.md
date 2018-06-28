@@ -3,11 +3,11 @@
 
 <b>Past Simple</b> — це часова форма, що відноситься групи часів Simple. Вона описує разові або повторювані дії, що відбулись в минулому. Детальніше про це та інші нюанси ми поговоримо далі.
 
-Продовжимо перегляд фрагмента із "Human" (1:40). Зараз вона веде далі розповідь уже в Past Simple, оскільки згадує про своє минуле. Звернемо увагу на виділені місця:
+Переглянемо фрагмент із фільму "Human". Камерон веде розповідь в Past Simple, оскільки згадує про своє минуле. Звернемо увагу на виділені місця:
 
 
 <div class="fluidMedia">
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e-HvL3TSf-8" frameborder="0" allowfullscreen></iframe>
+<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/e-HvL3TSf-8?start=100" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
 <br>
@@ -23,7 +23,5 @@
 <li>They <span class="p1">loved</span> us so deeply.</li>
 </ul>
 
-
 Тут Камерон використовує часову форму Past Simple.<br>
 Давайте розберемося чому.
-

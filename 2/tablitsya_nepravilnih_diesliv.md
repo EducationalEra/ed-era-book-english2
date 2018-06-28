@@ -1,4 +1,4 @@
-#Таблиця неправильних дієслів
+#List of irregular verbs
 
 <div class="centered-table-wrapper" id="Table">
 <table class="centered-table">

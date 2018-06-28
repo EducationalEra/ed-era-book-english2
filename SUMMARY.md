@@ -1,65 +1,20 @@
 # Summary
 
-* [Зміст](README.md)
-* [Вступне слово](vstup.md)
+* [Summary](README.md)
+* [Introduction](vstup.md)
 * [Time vs. Tense](extra/time_versus_tense.md)
-* [Таблиця неправильних дієслів](2/tablitsya_nepravilnih_diesliv.md)
-* [Present Simple](1/present_simple.md)
-   * [Вживання Present Simple](1/vjivayemo.md)
-   * [Утворення](1/utvoryuyemmo.md)
-       * [Стверджувальні речення](1/rozpovidni_rechennya.md)
-       * [Заперечення](1/zaperechennya.md)
-       * [Запитання](1/zapitanna.md)
-   * [Структури Present Simple, що не є типовими для української мови](1/netipovi_strukturi.md)
 * [Past Simple](2/Past_Simple.md)
-   * [Вживання Past Simple](2/vjivayemo.md)
-   * [Утворення](2/utvoryuyemmo.md)
-       * [Стверджувальні речення](2/rozpovidni_rechennya.md)
-       * [Заперечення](2/zaperechennya.md)
-       * [Запитання](2/zapitannya.md)
-* [Future Simple](3/Future_Simple.md)
-   * [Вживання Future Simple](3/vjivannya.md)
-   * [Утворення](3/utvorennya.md)
-       * [Стверджувальні речення](3/rozpovidni_rechennya.md)
-       * [Запитання](3/zapitannya.md)
-       * [Заперечення](3/zaperechennya.md)
-* Present Continuous
-   * Вживання Present Continuous
-   * Утворення
-       * Стверджувальні речення
-       * Заперечення
-       * Запитання
-* Past Continuous
-   * Вживання Past Continuous
-   * [Утворення](5/utvorennya.md)
-       * Стверджувальні речення
-       * Заперечення
-       * Запитання
-* Future Continuous
-   * Вживання Future Continuous
-   * Утворення
-       * Стверджувальні речення
-       * Заперечення
-       * Запитання
-* Present Perfect
-   * Вживання Present Perfect
-   * Утворення
-       * Стверджувальні речення
-       * Заперечення
-       * Запитання
-* Past Perfect
-   * Вживання Past Perfect
-   * Утворення
-       * Стверджувальні речення
-       * Заперечення
-       * Запитання
-* Future Perfect
-   * Вживання Future Perfect
-   * Утворення
-       * Стверджувальні речення
-       * Заперечення
-       * Запитання
-* Sentence Structure
-* Types of questions
-* Final Revision
-
+   * [Welcome!](2/grease.md)
+   * [Regular and irregular verbs. Part 1](2/regular-or-irregular-introduction.md)
+   * [Regular and irregular verbs. Part 2](2/regular-or-irregular.md)
+   * [Regular verbs](2/regular-verbs-spelling.md)
+   * [Was and were](2/was.md)
+   * [Questions with did](2/did.md)
+   * [Was/Were/Did questions](2/grease-questions.md)
+   * [Didn’t, wasn’t and weren’t](2/didnt-wasnt.md)
+   * [Past Simple questions](2/talking-about-the-past.md)
+   * [Correct Past Simple mistakes](2/affirmative.md)
+   * [Past Simple summary](2/summary.md)
+   * [CVC](2/CVC.md)
+* [List of irregular verbs](2/tablitsya_nepravilnih_diesliv.md)
+* [List of regular verbs](2/regular-verbs.md)
