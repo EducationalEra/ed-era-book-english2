@@ -10,7 +10,7 @@ In this unit you will:<br>
 
 <iframe src="https://h5p.org/h5p/embed/264598" width="1090" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<br>
+### Materials
 
 <img class="image" src="./7.png"></img>
 
@@ -18,7 +18,7 @@ In this unit you will:<br>
 
 <img class="image" src="./9.png"></img>
 
-### Exercise
+## Activities
 
 <div>
   <!-- Nav tabs -->
@@ -32,6 +32,9 @@ In this unit you will:<br>
   </div>
 </div>
 </div>
+
+<br>
+<br>
 
 <div>
   <!-- Nav tabs -->

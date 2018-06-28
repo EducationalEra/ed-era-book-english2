@@ -12,11 +12,11 @@ In this video you will:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/A5os_p2vRMg" allowfullscreen></iframe>
 </div>
 
-<br>
+### Materials
 
 <img class="image" src="./11.png">
 
-### Exercise
+### Activities
 
 <div>
   <!-- Nav tabs -->
@@ -31,6 +31,9 @@ In this video you will:
 </div>
 </div>
 
+<br>
+<br>
+
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -43,6 +46,9 @@ In this video you will:
     </div>
 </div>
 </div>
+
+<br>
+<br>
 
 <div>
   <!-- Nav tabs -->
@@ -57,6 +63,9 @@ In this video you will:
 </div>
 </div>
 
+<br>
+<br>
+
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -70,6 +79,9 @@ In this video you will:
 </div>
 </div>
 
+<br>
+<br>
+
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -82,6 +94,9 @@ In this video you will:
     </div>
 </div>
 </div>
+
+<br>
+<br>
 
 <div>
   <!-- Nav tabs -->

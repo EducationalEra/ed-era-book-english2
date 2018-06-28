@@ -1,10 +1,12 @@
 #Correct Past Simple mistakes
 
-##Danny and Sandy” video-activity
+##“Danny and Sandy” video-activity
 
 Why did Danny decide to become a sportsmen? When was Sandy at the cafe with another boy? What did Danny and Sandy do at the dance party?
 
 In these video activities you will correct common Past Simple mistakes.
+
+##Activities
 
 <div>
   <!-- Nav tabs -->
@@ -19,6 +21,9 @@ In these video activities you will correct common Past Simple mistakes.
 </div>
 </div>
 
+<br>
+<br>
+
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -31,6 +36,9 @@ In these video activities you will correct common Past Simple mistakes.
     </div>
 </div>
 </div>
+
+<br>
+<br>
 
 <div>
   <!-- Nav tabs -->
@@ -45,6 +53,9 @@ In these video activities you will correct common Past Simple mistakes.
 </div>
 </div>
 
+<br>
+<br>
+
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -57,6 +68,9 @@ In these video activities you will correct common Past Simple mistakes.
     </div>
 </div>
 </div>
+
+<br>
+<br>
 
 <div>
   <!-- Nav tabs -->

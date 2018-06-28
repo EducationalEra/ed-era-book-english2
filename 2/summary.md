@@ -12,7 +12,7 @@ In this video you will:
   <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/yjCVgaGfg1w" allowfullscreen></iframe>
 </div>
 
-<br>
+### Materials
 
 <img class="image" src="./12.png">
 <br>
@@ -28,7 +28,7 @@ In this video you will:
 <br>
 <img class="image" src="./18.png">
 
-### Exercise
+### Activities
 
 <div>
   <!-- Nav tabs -->
@@ -42,6 +42,9 @@ In this video you will:
     </div>
 </div>
 </div>
+
+<br>
+<br>
 
 <div>
   <!-- Nav tabs -->

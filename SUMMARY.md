@@ -1,7 +1,7 @@
 # Summary
 
-* [Summary](README.md)
 * [Introduction](vstup.md)
+* [Summary](README.md)
 * [Welcome!](2/grease.md)
 * [Regular and irregular verbs. Part 1](2/regular-or-irregular-introduction.md)
 * [Regular and irregular verbs. Part 2](2/regular-or-irregular.md)

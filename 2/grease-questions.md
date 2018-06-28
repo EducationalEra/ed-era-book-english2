@@ -14,7 +14,7 @@ In this video you will:
 
 <img class="image" src="./8.1.png">
 
-### Exercise
+### Activity
 
 <div>
   <!-- Nav tabs -->

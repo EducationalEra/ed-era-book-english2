@@ -10,7 +10,7 @@ In this unit you will:<br>
 
 <iframe src="https://h5p.org/h5p/embed/266024" width="1091" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Exercise
+### Activities
 
 <div>
   <!-- Nav tabs -->
@@ -24,6 +24,9 @@ In this unit you will:<br>
     </div>
 </div>
 </div>
+
+<br>
+<br>
 
 <div>
   <!-- Nav tabs -->

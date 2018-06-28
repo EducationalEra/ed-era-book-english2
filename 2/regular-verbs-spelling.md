@@ -10,18 +10,13 @@ In this unit you will:
 
 <iframe src="https://h5p.org/h5p/embed/265195" width="1090" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-<br>
+### Materials
 
 <img class="image" src="./3.png">
 <br>
 <img class="image" src="./4.png">
 
-### Materials
-
-- <a href="https://english2.ed-era.com/2/tablitsya_nepravilnih_diesliv.html">List of irregular verbs</a>
-- <a href="https://english2.ed-era.com/2/regular-verbs.html">List of regular verbs</a>
-
-### Exercise
+### Activities
 
 <div>
   <!-- Nav tabs -->
@@ -36,6 +31,9 @@ In this unit you will:
 </div>
 </div>
 
+<br>
+<br>
+
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
@@ -48,6 +46,9 @@ In this unit you will:
     </div>
 </div>
 </div>
+
+<br>
+<br>
 
 <div>
   <!-- Nav tabs -->
