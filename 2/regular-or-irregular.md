@@ -10,8 +10,8 @@ What did Danny and Sandy tell their friends about the summer? In this video you 
 
 ### Materials
 
-- <a href="https://english2.ed-era.com/2/tablitsya_nepravilnih_diesliv.html">List of irregular verbs</a>
-- <a href="https://english2.ed-era.com/2/regular-verbs.html">List of regular verbs</a>
+- <a href="https://drive.google.com/file/d/1L0-dyHtLIT-JZYgmXfUwFi-N87wuZxd1/view?usp=sharing">List of irregular verbs</a>
+- <a href="https://drive.google.com/file/d/1nHJfmf220CCGSuMN5ZXL7rFDtebpnpss/view?usp=sharing">List of regular verbs</a>
 
 ### Activities
 
