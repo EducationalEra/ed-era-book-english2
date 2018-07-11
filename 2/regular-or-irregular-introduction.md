@@ -8,10 +8,9 @@ In this unit you will:<br>
 - watch an extract from the film Grease
 - learn about regular and irregular verbs
 
-<iframe src="https://h5p.org/h5p/embed/266024" width="1091" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+<iframe src="https://h5p.org/h5p/embed/266024" width="1091" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 ### Activities
-
 
 <div>
   <!-- Nav tabs -->
@@ -22,9 +21,23 @@ In this unit you will:<br>
   <!-- Tab panes -->
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="home">
-<iframe src="https://h5p.org/h5p/embed/255031" width="1090" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+        <iframe src="https://h5p.org/h5p/embed/255031" width="1090" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
     </div>
     <div role="tabpanel" class="tab-pane" id="menu1">
-<iframe src="https://h5p.org/h5p/embed/255033" width="1090" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+        <iframe src="https://h5p.org/h5p/embed/255033" width="1090" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+    </div>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    setTimeout(function () {
+        $('#menu1').css('display', 'block');
+        setInterval(function () {
+            $('#menu1').css('display', '');
+        }, 2000);
+    }, 0);
+});
+</script>
+
+<script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
