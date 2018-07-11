@@ -30,14 +30,23 @@ In this unit you will:<br>
 </div>
 
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-    setTimeout(function () {
-        $('#menu1').css('display', 'block');
-        setInterval(function () {
-            $('#menu1').css('display', '');
-        }, 2000);
-    }, 0);
-});
+if (document.readyState === "complete" || document.readyState === "loaded") {
+  setTimeout(function () {
+      $('#menu1').css('display', 'block');
+      setInterval(function () {
+          $('#menu1').css('display', '');
+      }, 4000);
+  }, 0);
+} else {
+  document.addEventListener('DOMContentLoaded', function() {
+      setTimeout(function () {
+          $('#menu1').css('display', 'block');
+          setInterval(function () {
+              $('#menu1').css('display', '');
+          }, 4000);
+      }, 0);
+  });
+}
 </script>
 
 <script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
