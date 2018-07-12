@@ -14,47 +14,58 @@ In this video you will:
 
 ### Materials
 
+<div>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Materials 1</a></li>
+    <li role="presentation"><a href="#menu22" aria-controls="menu22" role="tab" data-toggle="tab">Materials 2</a></li>
+    <li role="presentation"><a href="#menu23" aria-controls="menu23" role="tab" data-toggle="tab">Materials 3</a></li>
+    <li role="presentation"><a href="#menu24" aria-controls="menu24" role="tab" data-toggle="tab">Materials 4</a></li>
+    <li role="presentation"><a href="#menu25" aria-controls="menu25" role="tab" data-toggle="tab">Materials 5</a></li>
+    <li role="presentation"><a href="#menu26" aria-controls="menu26" role="tab" data-toggle="tab">Materials 6</a></li>
+    <li role="presentation"><a href="#menu27" aria-controls="menu27" role="tab" data-toggle="tab">Materials 7</a></li>
+  </ul>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="home">
 <img class="image" src="./12.png">
-<br>
+  </div>
+    <div role="tabpanel" class="tab-pane" id="menu22">
 <img class="image" src="./13.png">
-<br>
+  </div>
+    <div role="tabpanel" class="tab-pane" id="menu23">
 <img class="image" src="./14.png">
-<br>
+  </div>
+      <div role="tabpanel" class="tab-pane" id="menu24">
 <img class="image" src="./15.png">
-<br>
+  </div>
+        <div role="tabpanel" class="tab-pane" id="menu25">
 <img class="image" src="./16.png">
-<br>
+  </div>
+        <div role="tabpanel" class="tab-pane" id="menu26">
 <img class="image" src="./17.png">
-<br>
+  </div>
+          <div role="tabpanel" class="tab-pane" id="menu27">
 <img class="image" src="./18.png">
+  </div>
+</div>
+</div>
 
 ### Activities
 
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Task 1</a></li>
+    <li role="presentation" class="active"><a href="#home2" aria-controls="home2" role="tab" data-toggle="tab">Task 1</a></li>
+    <li role="presentation"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">Task 2</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="home">
+    <div role="tabpanel" class="tab-pane active" id="home2">
 <iframe src="https://learningapps.org/watch?v=p22hstdmn18" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
     </div>
-</div>
-</div>
-
-<br>
-<br>
-
-<div>
-  <!-- Nav tabs -->
-  <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">Task 2</a></li>
-  </ul>
-  <!-- Tab panes -->
-  <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="menu1">
+    <div role="tabpanel" class="tab-pane" id="menu1">
 <iframe src="https://learningapps.org/watch?v=pcxkppq5v18" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
   </div>
-</div>
-</div>
+  </div>
+  </div>

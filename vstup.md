@@ -1,40 +1,40 @@
-#Загальні відомості
+# Introduction
 
-Інтерактивні книги на проекті складаються з авторського структурованого теоретичного матеріалу, вбудованих відео та запитань, відповіді на які оброблюються миттєво. У запитання іноді вбудовано підказки для того, щоб читач міг глибше вивчити конкретну тему. У книзі часто застосовано стилізовані блоки, такі як «означення», «авторський алгоритм», «задача» тощо. Звертайте на них увагу. 
-
-<div class="eoz-wrap">
-<span class="eoz">Визначення</span>
-<div class="eoz-text">
-<b>Проект EdEra Books</b> — соціальний проект інтерактивної освітньої літератури, створений на базі проекту EdEra (ed-era.com). Проект створюють випускники і студенти престижних університетів України та Європи, професіонали й експерти для української молоді та всіх, хто прагне здобувати якісні знання, набувати  фахових навичок за допомогою новітніх технологій. 
+<div>
+  <!-- Nav tabs -->
+  <ul class="nav nav-tabs" role="tablist">
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">About the project</a></li>
+    <li role="presentation"><a href="#menu61" aria-controls="menu61" role="tab" data-toggle="tab">Contents</a></li>
+    <li role="presentation"><a href="#menu71" aria-controls="menu71" role="tab" data-toggle="tab">How to use the platform</a></li>
+  </ul>
+  <!-- Tab panes -->
+  <div class="tab-content">
+    <div role="tabpanel" class="tab-pane active" id="home">
+<iframe src="https://learningapps.org/watch?v=p8abwmcut18" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+    </div>
+    <div role="tabpanel" class="tab-pane" id="menu61">
+* [Welcome!](2/grease.md)
+* [”We met. We kissed”. Regular and irregular verbs. Part 1](2/regular-or-irregular-introduction.md)
+* [“Summer nights” video-activity. Regular and irregular verbs. Part 2](2/regular-or-irregular.md)
+* [“He danced. She studied”. Regular verbs](2/regular-verbs-spelling.md)
+* [Learn irregular verbs!](2/learn.md)
+* [Practice irregular verbs!](2/practice.md)
+* [“Those were the 1950s!”. Was and were](2/was.md)
+* [“What did you do all summer?”. Questions with did](2/did.md)
+* [“Was it love at first sight?”. Was/Were/Did questions](2/grease-questions.md)
+* [“Women didn’t wear jeans.” Didn’t, wasn’t and weren’t](2/didnt-wasnt.md)
+* [“The television revolution”. Past Simple questions](2/talking-about-the-past.md)
+* [“Danny and Sandy”. Correct Past Simple mistakes](2/affirmative.md)
+* [The Making of “Grease”. Past Simple summary](2/summary.md)
+* [Bonus 1. Women in the 1950s. Past and Present](2/CVC.md)
+* [Bonus 2. Pla<b>nn</b>ed and ope<b>n</b>ed. The CVC rule](2/CVC-2.md)
+* [List of irregular verbs](2/tablitsya_nepravilnih_diesliv.md)
+* [List of regular verbs](2/tablitsya_pravilnih_diesliv.md)
+* [About the author](2/author.md)
+* [About the project](2/project.md)
+  </div>
+    <div role="tabpanel" class="tab-pane" id="menu71">
+    </div>
 </div>
 </div>
-
-##Технічні можливості
-Зліва на кожній сторінці ви бачите зміст книги. За допомогою кнопки на панелі <span style="color:red">(1)</span> зміст можна приховувати та відкривати знову. На цій панелі є кнопка у формі букви «А». Натиснувши на неї, ви відкриєте меню, в якому можна змінювати розмір кегля, режим відображення тощо. 
-
-Справа є панель <span style="color:red">(2)</span> з соціальними мережами. Ви можете поділитися з друзями інформацією з кожної сторінки інтерактивної книги. Так ви допоможете людям дізнатися про наш проект, а також продемонструєте, що Ви дуже розумні й читаєте корисну літературу :)
-
-
-<img class="image"  src="https://rawgit.com/chudaol/ed-era-book-physics/master/book/vstupne_slovo1.png" alt="Функціонал сервісу EdEraBooks" />
-
-
-##Умови користування та зауваження
-
-EdEra Books – соціальний освітній проект, який дозволяє необмежене та безкоштовне використання сервісу в освітніх цілях. Будь-яке копіювання матеріалів проекту на сторонній ресурс можливе лише за умови зазначення авторства та з посиланням на проект (ed-era.com, ed-era.com/books).
-
-Команда проекту EdEra вважає, що розробка справді якісного освітнього українського продукту – результат старанної, наполегливої, творчої та колективної роботи. Тому не будьте байдужими, долучайтесь до розвитку й облагороджування цього сервісу: 
-
-Напрямки співпраці:
-* 
- **Редагування.** Можливо, Ви знайшли якусь граматичну чи пунктуаційну помилку. Обов'язково сповістіть нам про це! Ми виправимо її. Маємо великий обсяг матеріалу на редагування. Будемо вдячні, якщо візьметесь за цю роботу. Пишіть нам на електронну пошту.
-
-* 
-**Експертиза.** У роботі над освітніми продуктами команда й викладачі EdEra увесь час збирають відгуки та радяться з експертами в освітній галузі. Маєте будь-які зауваження, поради, доповнення до матеріалу? Обов'язково зв'яжіться з нами! Ми робимо все, щоб матеріал на проекті був максимально якісним, і не нехтуємо експертною допомогою. 
-
-<div align="center" style="border:1px solid red; padding-top:5px; margin-bottom:13px;">
-<p><b>Email:</b> info@ed-era.com</p>
-<p><b>Phone:</b> +380 63 380 60 42</p>
 </div>
-
-* 
- **Матеріальна допомога.** Проект розробляється власними силами команди та небайдужих людей. Це великий, але, на нашу думку, дуже важливий для українського освітнього простору, обсяг роботи. Навіть невеликий внесок зможе допомогти прискорити і стабілізувати процес розробки та розвитку проекту.

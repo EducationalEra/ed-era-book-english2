@@ -10,8 +10,8 @@ What did Danny and Sandy tell their friends about the summer? In this video you 
 
 ### Materials
 
-- <a href="https://drive.google.com/file/d/1L0-dyHtLIT-JZYgmXfUwFi-N87wuZxd1/view?usp=sharing">List of irregular verbs</a>
-- <a href="https://drive.google.com/file/d/1nHJfmf220CCGSuMN5ZXL7rFDtebpnpss/view?usp=sharing">List of regular verbs</a>
+- <a href="https://english2.ed-era.com/tablitsya_nepravilnih_diesliv.html">List of irregular verbs</a>
+- <a href="https://english2.ed-era.com/tablitsya_pravilnih_diesliv.html">List of regular verbs</a>
 
 ### Activities
 
@@ -19,26 +19,14 @@ What did Danny and Sandy tell their friends about the summer? In this video you 
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
     <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Task 1</a></li>
+    <li role="presentation"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">Task 2</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
     <div role="tabpanel" class="tab-pane active" id="home">
 <iframe src="https://learningapps.org/watch?v=p8abwmcut18" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
     </div>
-</div>
-</div>
-
-<br>
-<br>
-
-<div>
-  <!-- Nav tabs -->
-  <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#menu1" aria-controls="menu1" role="tab" data-toggle="tab">Task 2</a></li>
-  </ul>
-  <!-- Tab panes -->
-  <div class="tab-content">
-    <div role="tabpanel" class="tab-pane active" id="menu1">
+    <div role="tabpanel" class="tab-pane" id="menu1">
 <iframe src="https://learningapps.org/watch?v=pqfsstu5n18" style="border:0px;width:100%;height:500px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
   </div>
 </div>
