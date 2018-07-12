@@ -8,6 +8,8 @@ $(document).ready(function() {
     href = $lastLink.prop("href");
     href = "https://ed-era.com/books/" + _.last(href.split("-"));
     $lastLink.prop("href", href);
+    $("a").filter(":contains('Interactive English Grammar')").remove();
+
   }
   init();
   require(["gitbook"], function (gitbook) {

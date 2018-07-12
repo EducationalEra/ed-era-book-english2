@@ -17,5 +17,3 @@
 * [Bonus 2. Planned and opened. The CVC rule](2/CVC-2.md)
 * [List of irregular verbs](2/tablitsya_nepravilnih_diesliv.md)
 * [List of regular verbs](2/tablitsya_pravilnih_diesliv.md)
-* [About the author](2/author.md)
-* [About the project](2/project.md)

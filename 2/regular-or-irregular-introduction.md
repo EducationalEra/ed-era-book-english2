@@ -1,6 +1,6 @@
 #Regular and irregular verbs. Part 1
 
-##”We met. We kissed”
+##“We met. We kissed”
 
 How did Danny and Sandy spend their summer holidays? What did they do on the beach?
 
