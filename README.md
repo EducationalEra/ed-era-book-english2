@@ -19,7 +19,7 @@ This special project is:
         <li><b>interactive:</b>  interactive videos and activities for maximum result ></li>
         <li><b>for all ages:</b>  this course is for school and university students, adult learners and language teachers</li>
       </ul>
-      Each unit consists of:
+      Each unit consists of: 
       <ol>
         <li><b>interactive videos:</b> watch and practice at the same time</li>
         <li><b>extra materials:</b> the most important information in charts, tables and diagrams</li>
