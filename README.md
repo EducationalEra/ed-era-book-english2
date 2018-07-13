@@ -26,7 +26,7 @@ This project is:
     <img src="./2/26.png" />
     </td>
     <td valign="middle"  align="left" style="border: none; background: white;">
-      <b>practical:</b> use of tense is demonstrated through authentic videos 
+      <b>practical:</b> use of tense is demonstrated through authentic videos  
     </td>
   </tr>
   <tr style="border-top: none;">
@@ -34,7 +34,7 @@ This project is:
     <img src="./2/25.png" />
     </td>
     <td valign="middle"  align="left" style="border: none; background: white;">
-      <b>detailed:</b> everything you need to master all aspects of the tense
+      <b>detailed:</b> everything you need to master all aspects of the tense 
     </td>
   </tr>
   <tr style="border-top: none;">
