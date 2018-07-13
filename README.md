@@ -45,14 +45,13 @@ This special project is:
         <li><a href="https://english2.ed-era.com/2/CVC-2.html">Bonus 2. Planned and opened. The CVC rule</a></li>
         <li><a href="https://english2.ed-era.com/2/tablitsya_nepravilnih_diesliv.html">List of irregular verbs</a></li>
         <li><a href="https://english2.ed-era.com/2/tablitsya_pravilnih_diesliv.html">List of regular verbs</a></li>
-        <li><a href="https://english2.ed-era.com/2/author.html">About the author</a></li>
       </ul>
   </div>
     <div role="tabpanel" class="tab-pane" id="menu62">
 <b>Christina Shabo</b> has been teaching English since 2011 and holds a Cambridge Certificate in English Language Teaching to Adults. She has worked with children and adults, groups and individual students from around the world. Christina’s favourite aspect of teaching English is grammar.  An avid supporter of E-learning technologies, she has always wanted to create course that would enable students to master grammar on their own and enjoy the process.
   </div>
     <div role="tabpanel" class="tab-pane" id="menu63">
-<b>EdEra</b> is a Ukrainian educational project, which creates full-fledged online courses and wide-ranging accompanying materials. Our goal is to make education affordable and high-quality in accordance with the best Western educational initiatives.
+<b>EdEra</b> is an online-education studio. We create online-courses, interactive books, lesson scenarios, and models of intergation of modern educational solutions into the traditional educational process.
   </div>
 </div>
 </div>
