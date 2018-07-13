@@ -17,13 +17,13 @@ In this video you will:
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Materials 1</a></li>
-    <li role="presentation"><a href="#menu22" aria-controls="menu22" role="tab" data-toggle="tab">Materials 2</a></li>
-    <li role="presentation"><a href="#menu23" aria-controls="menu23" role="tab" data-toggle="tab">Materials 3</a></li>
-    <li role="presentation"><a href="#menu24" aria-controls="menu24" role="tab" data-toggle="tab">Materials 4</a></li>
-    <li role="presentation"><a href="#menu25" aria-controls="menu25" role="tab" data-toggle="tab">Materials 5</a></li>
-    <li role="presentation"><a href="#menu26" aria-controls="menu26" role="tab" data-toggle="tab">Materials 6</a></li>
-    <li role="presentation"><a href="#menu27" aria-controls="menu27" role="tab" data-toggle="tab">Materials 7</a></li>
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Table 1</a></li>
+    <li role="presentation"><a href="#menu22" aria-controls="menu22" role="tab" data-toggle="tab">Table 2</a></li>
+    <li role="presentation"><a href="#menu23" aria-controls="menu23" role="tab" data-toggle="tab">Table 3</a></li>
+    <li role="presentation"><a href="#menu24" aria-controls="menu24" role="tab" data-toggle="tab">Table 4</a></li>
+    <li role="presentation"><a href="#menu25" aria-controls="menu25" role="tab" data-toggle="tab">Table 5</a></li>
+    <li role="presentation"><a href="#menu26" aria-controls="menu26" role="tab" data-toggle="tab">Table 6</a></li>
+    <li role="presentation"><a href="#menu27" aria-controls="menu27" role="tab" data-toggle="tab">Table 7</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">

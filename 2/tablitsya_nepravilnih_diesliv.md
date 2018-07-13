@@ -377,4 +377,4 @@
 	</tr>
 </table>	
 
-<p><center><a href="https://drive.google.com/file/d/1L0-dyHtLIT-JZYgmXfUwFi-N87wuZxd1/view?usp=sharing" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Завантажити</button></a></center></p>
+<p><center><a href="https://drive.google.com/file/d/1L0-dyHtLIT-JZYgmXfUwFi-N87wuZxd1/view?usp=sharing" target="_blank"><button type="button" class="btn btn-primary btn-lg">Download</button></a></center></p>

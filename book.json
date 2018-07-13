@@ -45,8 +45,8 @@
         "contribute": false,
         
         "sidebar": {
-          "Зв'язатися з нами: info@ed-era.com": "mailto:info@ed-era.com",
-          "Перейти до бібліотеки EdEra": "https://www.ed-era.com/books"
+          "Contact us: info@ed-era.com": "mailto:info@ed-era.com",
+          "Go to EdEra books": "https://www.ed-era.com/books"
         }
     }
 }

@@ -15,8 +15,8 @@ In this unit you will:
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#home2" aria-controls="home2" role="tab" data-toggle="tab">Materials 1</a></li>
-    <li role="presentation"><a href="#menu21" aria-controls="menu21" role="tab" data-toggle="tab">Materials 2</a></li>
+    <li role="presentation" class="active"><a href="#home2" aria-controls="home2" role="tab" data-toggle="tab">Table 1</a></li>
+    <li role="presentation"><a href="#menu21" aria-controls="menu21" role="tab" data-toggle="tab">Table 2</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
@@ -24,6 +24,7 @@ In this unit you will:
 <img class="image" src="./3.png">
   </div>
     <div role="tabpanel" class="tab-pane" id="menu21">
+      <p align="center" ><b><span style="font-size: 140%!important; color: #4183c4;"> Rules for forming regular verbs</span></b></p>
 <img class="image" src="./4.png">
   </div>
 </div>

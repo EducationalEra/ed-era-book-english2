@@ -2,7 +2,7 @@
 
 Here are materials and activities - everything you need to practice  important irregular verbs!
 
-<p><center><a href="https://english2.ed-era.com/2/tablitsya_nepravilnih_diesliv.html" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">List of irregular verbs</button></a></center></p>
+<p><center><a href="https://english2.ed-era.com/2/tablitsya_nepravilnih_diesliv.html" target="_blank"><button type="button" class="btn btn-primary btn-lg">List of irregular verbs</button></a></center></p>
 
 <div>
   <!-- Nav tabs -->

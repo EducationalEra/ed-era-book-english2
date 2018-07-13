@@ -94,7 +94,7 @@ Here are materials and activities – everything you need to learn important irr
     </td>
   </tr>
   </table>
-<p><center><a href="https://quizlet.com/302567712/write" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Activity 1</button></a></center></p>
+<p><center><a href="https://quizlet.com/302567712/write" target="_blank"><button type="button" class="btn btn-primary btn-lg">Activity 1</button></a></center></p>
     </div>
     <div role="tabpanel" class="tab-pane" id="menu1">
   <table>
@@ -179,7 +179,7 @@ Here are materials and activities – everything you need to learn important irr
     </td>
   </tr>
         </table>
-<p><center><a href="https://quizlet.com/302581153/write" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Activity 2-3</button></a></center></p>
+<p><center><a href="https://quizlet.com/302581153/write" target="_blank"><button type="button" class="btn btn-primary btn-lg">Activity 2-3</button></a></center></p>
   </div>
     <div role="tabpanel" class="tab-pane" id="menu2">
        <table>
@@ -239,7 +239,7 @@ Here are materials and activities – everything you need to learn important irr
     </td>
   </tr>
               </table>
-<p><center><a href="https://quizlet.com/302588327/write" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Activity 4</button></a></center></p>
+<p><center><a href="https://quizlet.com/302588327/write" target="_blank"><button type="button" class="btn btn-primary btn-lg">Activity 4</button></a></center></p>
   </div>
     <div role="tabpanel" class="tab-pane" id="menu3">
 <table>
@@ -310,7 +310,7 @@ Here are materials and activities – everything you need to learn important irr
     </td>
   </tr>
   </table>
-<p><center><a href="https://quizlet.com/302589457/write" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Activity 5</button></a></center></p>
+<p><center><a href="https://quizlet.com/302589457/write" target="_blank"><button type="button" class="btn btn-primary btn-lg">Activity 5</button></a></center></p>
   </div>
     <div role="tabpanel" class="tab-pane" id="menu4">
   <table>
@@ -402,6 +402,6 @@ Here are materials and activities – everything you need to learn important irr
     </td>
   </tr>
     </table>
-<p><center><a href="https://quizlet.com/302591717/write" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Activity 6</button></a></center></p>
+<p><center><a href="https://quizlet.com/302591717/write" target="_blank"><button type="button" class="btn btn-primary btn-lg">Activity 6</button></a></center></p>
   </div>
 </div>

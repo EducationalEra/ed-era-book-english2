@@ -15,8 +15,8 @@ In this unit you will:<br>
 <div>
   <!-- Nav tabs -->
   <ul class="nav nav-tabs" role="tablist">
-    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Materials 1</a></li>
-    <li role="presentation"><a href="#menu41" aria-controls="menu41" role="tab" data-toggle="tab">Materials 2</a></li>
+    <li role="presentation" class="active"><a href="#home" aria-controls="home" role="tab" data-toggle="tab">Table 1</a></li>
+    <li role="presentation"><a href="#menu41" aria-controls="menu41" role="tab" data-toggle="tab">Table 2</a></li>
   </ul>
   <!-- Tab panes -->
   <div class="tab-content">
