@@ -14,15 +14,15 @@
 This project is:
 <table style="border-spacing: 7px 11px;">
       <tr style="border-top: none;">
-    <td width="40px" valign="middle" style="padding:0; border: none;">
+    <td width="40px" valign="middle" style="padding:0; border: none; background: white;">
     <img src="./2/29.png" />
     </td>
-    <td valign="middle"  align="left" style="border: none;">
+    <td valign="middle"  align="left" style="border: none; background: white;">
       <b>for all ages:</b> this course is for school and university students, adult learners and language teachers 
   </tr>
   <tr></tr>
   <tr style="border-top: none;">
-    <td width="40px" valign="middle" style="padding:0; border: none; background: white; ">
+    <td width="40px" valign="middle" style="padding:0; border: none; background: white;">
     <img src="./2/26.png" />
     </td>
     <td valign="middle"  align="left" style="border: none; background: white;">
@@ -38,45 +38,45 @@ This project is:
     </td>
   </tr>
   <tr style="border-top: none;">
-    <td width="40px" valign="middle" style="padding:0; border: none;">
+    <td width="40px" valign="middle" style="padding:0; border: none; background: white;">
     <img src="./2/28.png" />
     </td>
-    <td valign="middle"  align="left" style="border: none;">
+    <td valign="middle"  align="left" style="border: none; background: white;">
       <b>interactive:</b>  interactive videos and activities for maximum result
     </td>
   </tr>
     <tr style="border-top: none;">
-    <td width="40px" valign="middle" style="padding:0; border: none;">
+    <td width="40px" valign="middle" style="padding:0; border: none; background: white;">
     <img src="./2/27.png" />
     </td>
-    <td valign="middle"  align="left" style="border: none;">
-      <b>fun:</b> practice grammar with songs,films and online games
+    <td valign="middle"  align="left" style="border: none; background: white;">
+      <b>fun:</b> practice grammar with songs, films, and online games
     </td>
   </tr>
   </table>
       Each unit consists of: 
 <table>
           <tr style="border-top: none;">
-    <td width="40px" valign="middle" style="padding:0; border: none;">
+    <td width="40px" valign="middle" style="padding:0; border: none; background: white;">
     <img src="./2/30.png" />
     </td>
-    <td valign="middle"  align="left" style="border: none;">
+    <td valign="middle"  align="left" style="border: none; background: white;">
       <b>interactive videos:</b> watch and practice at the same time
     </td>
   </tr>
            <tr style="border-top: none;">
-    <td width="40px" valign="middle" style="padding:0; border: none;">
+    <td width="40px" valign="middle" style="padding:0; border: none; background: white;">
     <img src="./2/32.png" />
     </td>
-    <td valign="middle"  align="left" style="border: none;">
+    <td valign="middle"  align="left" style="border: none; background: white;">
 <b>interactive activities:</b> games and tasks to help you practice everything you learn
     </td>
   </tr>
              <tr style="border-top: none;">
-    <td width="40px" valign="middle" style="padding:0; border: none;">
+    <td width="40px" valign="middle" style="padding:0; border: none; background: white;">
     <img src="./2/31.png" />
     </td>
-    <td valign="middle"  align="left" style="border: none;">
+    <td valign="middle"  align="left" style="border: none; background: white;">
 <b>extra materials:</b> the most important information in charts, tables and diagrams
     </td>
   </tr>
