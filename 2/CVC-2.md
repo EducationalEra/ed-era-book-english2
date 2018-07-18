@@ -1,6 +1,6 @@
 #Bonus 2
 
-##Planned and opened. The CVC rule
+##The CVC rule
 
 If you are interested in spelling... 
 

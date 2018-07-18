@@ -1,4 +1,4 @@
-#Learn irregular verbs!
+#Irregular verbs: learn
 
 Here are materials and activities – everything you need to learn important irregular verbs!
 

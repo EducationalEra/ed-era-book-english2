@@ -1,4 +1,4 @@
-#Regular and irregular verbs. Part 1
+#Past Simple verb. Part I
 
 ##“We met. We kissed”
 

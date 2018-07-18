@@ -1,4 +1,4 @@
-#Practice irregular verbs!
+#Irregular verbs: practice
 
 Here are materials and activities - everything you need to practice  important irregular verbs!
 

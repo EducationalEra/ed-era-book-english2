@@ -1,6 +1,6 @@
 #Bonus 1
 
-##Women in the 1950s. Past and Present
+##Past and Present
 
 What was it like to be a woman in the era of poodle skirts and housewives? 
 

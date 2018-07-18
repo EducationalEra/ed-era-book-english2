@@ -1,4 +1,4 @@
-#Correct Past Simple mistakes
+#Past Simple mistakes
 
 ##“Danny and Sandy” video-activity
 

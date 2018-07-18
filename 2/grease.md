@@ -1,6 +1,5 @@
-#Welcome!
+#Introduction
 
-Welcome to “Interactive English Grammar”!
 In this unit you will:
 - meet the characters from the popular American film “Grease”;
 - learn about an interesting period in American history;

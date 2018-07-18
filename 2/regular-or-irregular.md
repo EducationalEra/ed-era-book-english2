@@ -1,4 +1,4 @@
-#Regular and irregular verbs. Part 2
+#Past Simple verb. Part II
 
 ##“Summer nights” video-activity
 
