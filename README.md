@@ -53,8 +53,8 @@ Each unit consists of:
 
 **Here are some tips on how to use the platform:**
 
-![](./2/01.png)
+![](./2/01.jpg)
 
 **How to use the activities:**
 
-![](./2/02.png)
+![](./2/02.jpg)
